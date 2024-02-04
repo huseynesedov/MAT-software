@@ -96,13 +96,19 @@ svg:hover{
         width: 100% !important;
         display: flex;
     }
-
+    .icons{
+        margin-left: 0px !important;
+    }
     .navbar-nav {
-        margin-top: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
         flex-direction: row !important;
         justify-content: space-between !important;
     }
-
+    .dropdown-menu.show {
+        top: -100px !important;
+        right: -164px !important;
+    }
     span.navbar-text {
         margin-top: 10px;
         justify-content: center !important;
