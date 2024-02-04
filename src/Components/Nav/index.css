@@ -1,0 +1,117 @@
+.navbarss {
+    margin-top: 8px;
+    width: 41%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: white;
+    margin-right: 40px;
+}
+
+a {
+    list-style: none;
+    text-decoration: none !important;
+    color: white !important;
+    
+}
+a:checked ~ .to-be-changed{
+color: #CD8533;
+}
+.navbar-nav p{
+    transition: 0.2s;
+}
+.navbar-nav p:hover{
+    transition: 0.2s;
+    color: #CD8533;
+}
+
+
+.what:hover{
+    color: #CD8533;
+    transition: 0.2s;
+}
+.navbar-text a{
+    transition: 0.2s;
+    color: white !important;
+    font-size: 40px !important;
+}
+.dropdown-menu{
+    text-align: center;
+    --bs-dropdown-min-width: 8rem !important;
+}
+
+.dropdown-menu.show {
+    top: 45px;
+    right: -54px;
+}
+.icons{
+    margin-left: 40px;
+    transition: 0.2s;
+}
+.icons:hover{
+    transition: 0.2s;
+}
+
+svg{
+    transition: 0.2s;
+    vertical-align: inherit !important;
+
+}
+svg:hover{
+    transition: 0.2s;
+   color: #CD8533;
+}
+.what {
+    animation: shake 0.5s;
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(5deg);
+    }
+
+    50% {
+        transform: rotate(0eg);
+    }
+
+    75% {
+        transform: rotate(-5deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+
+
+@media (max-width:768px) {
+    .navbarss {
+        width: 100% !important;
+        display: flex;
+    }
+
+    .navbar-nav {
+        margin-top: 20px;
+        flex-direction: row !important;
+        justify-content: space-between !important;
+    }
+
+    span.navbar-text {
+        margin-top: 10px;
+        justify-content: center !important;
+    }
+
+    .icons {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}

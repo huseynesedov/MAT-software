@@ -1,0 +1,54 @@
+{
+    "nav": {
+        "home": "Ev",
+        "service": "Hizmetler",
+        "we": "Biz Kimiz?",
+        "project": "Projeler"
+    },
+    "About": {
+        "we": "Biz Kimiz?",
+        "tekno": "Teknolojide Güvenilir İş Ortağınız",
+        "mat": "MAT yazılım olarak, sizin için sadece bir hizmet sağlamaktan öte, güvenilir bir iş ortağı olmayı taahhüt ediyoruz. İş dünyasındaki dönüşümü liderlikle karşılamamızın arkasında, sektörde birikmiş deneyimimiz, uzman ekibimiz ve öncelikli müşteri odaklı yaklaşımımız bulunmaktadır. İşte bizimle çalışmanın avantajları:",
+        "mat2": "1. Deneyim ve Uzmanlık: Sektörde edindiğimiz yılların verdiği deneyimle, karmaşık projeleri yönetme konusunda uzmanız. MAT yazılım olarak, müşterilerimize sunduğumuz çözümlerde güçlü bir uzmanlıkla desteklenmiş, sağlam bir geçmişe sahibiz.",
+        "mat3": "2. Müşteri Odaklı Yaklaşım: Her müşterimiz bizim için eşsizdir ve işbirliğimizi bu temelde kurarız. İhtiyaçlarınızı anlamak, sizinle etkileşimde bulunmak ve çözümlerimizi size özel hale getirmek için buradayız. Müşterilerimizle birlikte çalışarak, iş süreçlerinizi daha iyi anlıyor ve ihtiyaçlarınıza uygun çözümler sunuyoruz.",
+        "mat4": "3. Teknolojinin Gücünü Kullanma: İnovasyon ve teknolojik gelişmelerle güçlü bir şekilde entegre oluyoruz. Müşterilerimize sunduğumuz çözümlerde, en son teknolojileri kullanarak iş süreçlerinizi iyileştiriyor ve rekabet avantajı sağlamanıza yardımcı oluyoruz.MAT yazılım olarak, sizinle birlikte çalışmak ve iş dünyasında başarılı bir dönüşüm sağlamak için sabırsızlanıyoruz. Sizi ailemize katmanın heyecanını yaşamak ve size özel çözümler sunmanın gururunu taşımak için buradayız."
+    },
+    "Home": {
+        "bt": "En İyi BT Çözümleri",
+        "tekno": "Teknolojinin Gücüyle İş Dünyasını Değiştiriyoruz.",
+        "mat": "MAT yazılım olarak, teknolojinin gücünü kullanarak iş dünyasında bir devrim başlatıyoruz. İş süreçlerinizi daha verimli, etkili ve rekabet avantajınızı artırarak dönüştürmek için buradayız.",
+        "we": "Neden Biz?"
+    },
+    "Projects": {
+        "proje": "Projeler",
+        "our": "Yakın Zamanda Tamamlanan Projelerimiz",
+        "we": "Biz Kimiz?",
+        "contact": "Bize Ulaşın",
+        "send":"Göndermek"
+    },
+    "Skils": {
+        "service": "Hizmetlerimiz",
+        "privet": "İşletmeniz İçin Özel Olarak Oluşturulan Hizmetler",
+       
+        "web": "Web Tasarım",
+        "info-web": "Web tasarımı, kullanıcıların çevrimiçi deneyimini şekillendiren kreatif bir süreçtir. İyi bir web tasarımı, estetik açıdan çekici olmanın ötesinde, kullanıcı dostu arayüzleri ve etkili bilgi iletimini bir araya getirir. Modern dijital dünyada önemli bir rekabet avantajı sağlar.",
+       
+        "web2": "Web Geliştirme",
+        "info-web2": "web siteleri veya web uygulamaları oluşturmak için kullanılan bir süreçtir. Web development, HTML, CSS, JavaScript gibi dilleri kullanarak web sayfalarını oluşturmayı, veritabanlarına erişimi yönetmeyi ve kullanıcı deneyimini geliştirmeyi içerir.",
+        
+        "design": "UI/UX Tasarım",
+        "info-design": "UI (User Interface) tasarımı, kullanıcı arayüzünün görsel unsurlarını oluşturarak estetik ve kullanılabilirlik arasında denge kurar. UX (User Experience) tasarımı ise kullanıcı deneyimini iyileştirme sürecidir.",
+       
+        "security": "Web Güvenliği",
+        "info-security": "web siteleri ve uygulamaları için alınan güvenlik önlemleriyle internet tabanlı tehditlere karşı koruma sağlayan bir disiplindir. Bu önlemler, veri güvenliği, kimlik doğrulama, şifreleme ve diğer güvenlik protokollerini içerir, kullanıcı bilgilerini ve sistemleri kötü niyetli saldırılardan korur.",
+        
+        "mikro": "Mikroservis mimari",
+        "info-mikro": "Mikroservis mimarisi, bir yazılım uygulamasını küçük, bağımsız hizmetlere bölen ve bu hizmetleri bir araya getirerek esnek, ölçeklenebilir ve hızlı geliştirme sağlayan bir yaklaşımdır. Her bir mikroservis, belirli bir işlevselliği temsil eder, böylece değişiklikler diğer hizmetleri etkilemez ve sistem genelindeki bakım ve geliştirme daha yönetilebilir hale gelir.",
+        
+        "prog": "Programlama",
+        "info-prog": "bilgisayarların anlayabileceği talimatların yazılmasıyla bir bilgisayar programının oluşturulmasını sağlayan bir süreçtir. Bu süreç, programlama dilleri aracılığıyla algoritmaları uygulayarak yazılım geliştirmeyi içerir, bilgisayarların belirli görevleri gerçekleştirmesini sağlar."
+    },
+    "footer": {
+        "reser": "Telif Hakkı 2022. Tüm Hakları Saklıdır"
+    }
+}

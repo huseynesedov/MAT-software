@@ -1,0 +1,49 @@
+{
+    "nav": {
+      "home": "Əsas Səhifə",
+      "service": "Xidmətlər",
+      "we": "Haqqımızda",
+      "project": "Layihələr"
+    },
+    "About": {
+      "we": "Biz Kimik?",
+      "tekno": "Texnologiyada Etibarlı İş Ortağınız",
+      "mat": "MAT yazılımı kimi, sizə sadəcə xidmət təmin etməkdən çox, etibarlı bir iş ortağı olmağa söz veririk. Bizim iş dünyasındakı dəyişikləri rəhbərlik etmədən öncə, sənayədə qazandığımız təcrübə, ekspert komandamız və əsas müştəri mərkəzli yanaşmamız var. Bizimlə işləmənin üstünlükləri aşağıdadır:",
+      "mat2": "1. Təcrübə və İxtisas: Sənayədə qazandığımız illərin təcrübəsi ilə kompleks layihələri idarə etmədə ixtisaslıyıq. MAT yazılımı kimi, müştərilərimizə təklif etdiyimiz həllərdə güclü bir ixtisas və sağlam bir keçmiş ilə dəstəklənmişik.",
+      "mat3": "2. Müştəri Mərkəzli Yanaşma: Hər bir müştərimiz üçün bizim üçün unikalıqdır və əsasən bu əsasda əməkdaşlığımızı qururuq. Sizin ehtiyaclarınızı anlamaq, sizinlə əlaqə qurmaq və həllərimizi sizin xüsusiyyətlərinizə uyğun etmək üçün buradayıq. Müştərilərimizlə birgə işləyərək, iş proseslərinizi daha yaxşı başa düşür və ehtiyaclarınıza uyğun həllər təqdim edirik.",
+      "mat4": "3. Texnologiyadan İstifadə Etme Gücü: İnovasiya və texnoloji inkişaf ilə güclü şəkildə inteqrasiya oluruq. Müştərilərimizə təklif etdiyimiz həllərdə, ən son texnologiyalardan istifadə edərək iş proseslərinizi yaxşılaşdırırıq və rəqabət üstünlüyü əldə etməyinizə kömək edirik. MAT yazılımı kimi, sizinlə birgə işləmək və iş dünyasında müvəffəqiyyətli bir dəyişiklik təmin etmək üçün sabırsızlanırıq. Sizi ailəmizə qoşulmağın təəccüblərini yaşamaq və sizə xüsusi həllər təqdim etməyin qürurunu yaşamaq üçün buradayıq."
+    },
+    "Home": {
+      "bt": "Ən Yaxşı IT Həlləri",
+      "tekno": "Texnologiya Gücü ilə Biznes Dünyasını Dəyişdiririk",
+      "mat": "MAT yazılımı kimi, biz texnologianın gücünü istifadə edərək iş dünyasında inqilab başlatırıq. Biz buradayıq ki, iş proseslərinizi daha səmərəli, effektiv və rəqabət üstünlüyünüzü artıraraq dəyişdirək.",
+      "we": "Niyə Biz?"
+    },
+    "Projects": {
+      "proje": "Layihələr",
+      "our": "Son zamanlarda Tamamlanan Layihələrimiz",
+      "we": "Biz Kimik?",
+      "contact": "Bizimlə Əlaqə Saxlayın",
+      "send": "Göndərmək"
+    },
+    "Skils": {
+      "service": "Xidmətlərimiz",
+      "privet": "Biznesiniz üçün Xüsusi Olaraq Hazırlanmış Xidmətlər",
+      "web": "Web Dizayn",
+      "info-web": "Web dizaynı, istifadəçilərin onlayn təcrübəsini formalaşdıran kreativ bir prosesdir. Gözəl bir web dizaynı, estetika baxımından maraqlı olmanın ötəsində, istifadəçi dostu interfeysləri və effektiv məlumat köçürməsini birləşdirir. Müasir rəqabətli dünyada əhəmiyyətli bir üstünlük təmin edir.",
+      "web2": "Web İnkişafı",
+      "info-web2": "Web saytlarını və ya web tətbiqlərini yaratmaq üçün istifadə olunan bir prosesdir. Web inkişafı, HTML, CSS, JavaScript kimi dilləri istifadə edərək web səhifələrini yaratmağı, verilənlər bazasına girişi idarə etməyi və istifadəçi təcrübəsini yaxşılaşdırmağı içərir.",
+      "design": "UI/UX Dizaynı",
+      "info-design": "UI (İstifadəçi İnterfeysi) dizaynı, görsel elementləri birləşdirərək estetika və istifadəçi dostluğu arasında bir qoordinasiya qurmağa nail olur. UX (İstifadəçi Təcrübəsi) dizaynı isə istifadəçi təcrübəsini yaxşılaşdırmağa yönlənmiş bir prosessdir.",
+      "security": "Web Təhlükəsizliyi",
+      "info-security": "Web təhlükəsizliyi, internet əsaslı təhlükələrə qarşı qoruma tədbirləri ilə veb saytlara və tətbiqlərə qarşı müdafiə təmin edən bir disiplindir. Bu tədbirlər, məlumatın təhlükəsizliyi, təsdiqləmə, şifrələmə və digər təhlükəsizlik protokollarını içərir, istifadəçi məlumatlarını və sistemləri niyyətli hücumlardan qoruyur.",
+      "mikro": "Mikroservis Mimariyası",
+      "info-mikro": "Mikroservis mimariyası, bir yazılım tətbiqini kiçik, müstəqil xidmətlərə bölmək və bu xidmətləri bir araya gətirərək esnek, ölçeklənə bilən və tez inkişaf etdirən bir yanaşmadır. Hər bir mikroservis müəyyən bir funksionalı təmsil edir, beləliklə dəyişikliklər digər xidmətləri təsir etməz və sistem ümumilikdə idarəetmə və inkişafı daha idarə edilə bilən halına gətirir.",
+      "prog": "Proqramlaşdırma",
+      "info-prog": "Komputerlərin anlaya biləcəyi təlimatların yazılması ilə komputer proqramının yaradılmasını təmin edən bir prosesdir. Bu proses, proqramlaşdırma dilləri vasitəsilə alqoritmləri tətbiq edərək proqram tərbiyə etməni içərir, komputerlərin müəyyən tapşırıqları yerinə yetirməsini təmin edir."
+    },
+    "footer": {
+      "reser": "Təhlükəsizlik Mülkiyyəti 2022. Bütün Hüquqlar Qorunur"
+    }
+  }
+  
