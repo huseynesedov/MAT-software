@@ -1,49 +1,70 @@
 {
-    "nav": {
-      "home": "Home",
-      "service": "Services",
-      "we": "About Us",
-      "project": "Projects"
-    },
-    "About": {
-      "we": "About Us",
-      "tekno": "Your Trusted Business Partner in Technology",
-      "mat": "As MAT Software, we commit to being more than just a service provider for you; we promise to be a reliable business partner. Our leadership in embracing the transformation in the business world is backed by our accumulated industry experience, expert team, and a customer-centric approach. Here are the advantages of working with us:",
-      "mat2": "1. Experience and Expertise: With years of experience in the industry, we are experts in managing complex projects. As MAT Software, our solutions for clients are supported by strong expertise and a solid track record.",
-      "mat3": "2. Customer-Centric Approach: Each of our customers is unique, and we build our collaboration on this foundation. We are here to understand your needs, interact with you, and tailor our solutions to your specific requirements. By working with our customers, we better understand their business processes and offer solutions tailored to their needs.",
-      "mat4": "3. Harnessing the Power of Technology: We integrate strongly with innovation and technological advancements. In the solutions we provide to our customers, we enhance your business processes by using the latest technologies, helping you gain a competitive advantage. We are eager to work with you and contribute to a successful transformation in the business world. We are here to experience the excitement of welcoming you into our family and take pride in offering you personalized solutions."
-    },
-    "Home": {
-      "bt": "Best IT Solutions",
-      "tekno": "Changing the Business World with the Power of Technology",
-      "mat": "As MAT Software, we are initiating a revolution in the business world by harnessing the power of technology. We are here to transform your business processes to be more efficient, effective, and competitive.",
-      "we": "Why Us?"
-    },
-    "Projects": {
-      "proje": "Projects",
-      "our": "Recently Completed Projects",
-      "we": "About Us",
-      "contact": "Contact Us",
-      "send": "Send"
-    },
-    "Skils": {
-      "service": "Our Services",
-      "privet": "Services Customized Specifically for Your Business",
-      "web": "Web Design",
-      "info-web": "Web design is a creative process that shapes the online experience of users. Good web design goes beyond being aesthetically pleasing; it combines user-friendly interfaces with effective information delivery, providing a significant competitive advantage in the modern digital world.",
-      "web2": "Web Development",
-      "info-web2": "Web development is the process of creating websites or web applications. It involves creating web pages using languages like HTML, CSS, and JavaScript, managing access to databases, and improving user experience.",
-      "design": "UI/UX Design",
-      "info-design": "UI (User Interface) design balances visual elements of the user interface, creating a harmony between aesthetics and usability. UX (User Experience) design is the process of improving user experience.",
-      "security": "Web Security",
-      "info-security": "Web security involves measures taken for websites and applications to protect against internet-based threats. These measures include data security, authentication, encryption, and other security protocols, safeguarding user information and systems from malicious attacks.",
-      "mikro": "Microservices Architecture",
-      "info-mikro": "Microservices architecture is an approach that divides a software application into small, independent services, bringing them together to provide a flexible, scalable, and fast development process. Each microservice represents specific functionality, making changes not affect other services, making maintenance and development more manageable.",
-      "prog": "Programming",
-      "info-prog": "Programming is the process of creating a computer program by writing instructions that computers can understand. This process involves developing software by implementing algorithms through programming languages, allowing computers to perform specific tasks."
-    },
-    "footer": {
-      "reser": "Copyright 2022. All Rights Reserved"
-    }
+  "nav": {
+    "home": "Home",
+    "service": "Services",
+    "we": "About Us",
+    "project": "Projects"
+  },
+  "About": {
+    "we": "About Us",
+    "tekno": "Your Trusted Business Partner in Technology",
+    "mat": "As MAT Software, we commit to being more than just a service provider for you; we promise to be a reliable business partner. Our leadership in embracing the transformation in the business world is backed by our accumulated industry experience, expert team, and a customer-centric approach. Here are the advantages of working with us:",
+    "mat2": "1. Experience and Expertise: With years of experience in the industry, we are experts in managing complex projects. As MAT Software, our solutions for clients are supported by strong expertise and a solid track record.",
+    "mat3": "2. Customer-Centric Approach: Each of our customers is unique, and we build our collaboration on this foundation. We are here to understand your needs, interact with you, and tailor our solutions to your specific requirements. By working with our customers, we better understand their business processes and offer solutions tailored to their needs.",
+    "mat4": "3. Harnessing the Power of Technology: We integrate strongly with innovation and technological advancements. In the solutions we provide to our customers, we enhance your business processes by using the latest technologies, helping you gain a competitive advantage. We are eager to work with you and contribute to a successful transformation in the business world. We are here to experience the excitement of welcoming you into our family and take pride in offering you personalized solutions."
+  },
+  "Home": {
+    "bt": "Best IT Solutions",
+    "tekno": "Changing the Business World with the Power of Technology",
+    "mat": "As MAT Software, we are initiating a revolution in the business world by harnessing the power of technology. We are here to transform your business processes to be more efficient, effective, and competitive.",
+    "we": "Why Us?"
+  },
+  "Projects": {
+    "proje": "Projects",
+    "our": "Recently Completed Projects",
+    "we": "About Us",
+    "contact": "Contact Us",
+    "send": "Send"
+  },
+  "Skils": {
+    "service": "Our Services",
+    "privet": "Services Customized Specifically for Your Business",
+    "web": "Web Design",
+    "info-web": "Web design is a creative process that shapes the online experience of users. Good web design goes beyond being aesthetically pleasing; it combines user-friendly interfaces with effective information delivery, providing a significant competitive advantage in the modern digital world.",
+    "web2": "Web Development",
+    "info-web2": "Web development is the process of creating websites or web applications. It involves creating web pages using languages like HTML, CSS, and JavaScript, managing access to databases, and improving user experience.",
+    "design": "UI/UX Design",
+    "info-design": "UI (User Interface) design balances visual elements of the user interface, creating a harmony between aesthetics and usability. UX (User Experience) design is the process of improving user experience.",
+    "security": "Web Security",
+    "info-security": "Web security involves measures taken for websites and applications to protect against internet-based threats. These measures include data security, authentication, encryption, and other security protocols, safeguarding user information and systems from malicious attacks.",
+    "mikro": "Microservices Architecture",
+    "info-mikro": "Microservices architecture is an approach that divides a software application into small, independent services, bringing them together to provide a flexible, scalable, and fast development process. Each microservice represents specific functionality, making changes not affect other services, making maintenance and development more manageable.",
+    "prog": "Programming",
+    "info-prog": "Programming is the process of creating a computer program by writing instructions that computers can understand. This process involves developing software by implementing algorithms through programming languages, allowing computers to perform specific tasks."
+  },
+  "B2b": {
+    "title": "B2B: This abbreviation stands for 'Business to Business' and refers to trade between businesses. In this type of trade, one business sells goods or services to another business. B2B trade usually occurs in areas such as wholesale trade, industrial goods and services, supply chain management, etc. B2B relationships can be based on long-term collaboration between two businesses and may involve large-scale orders and regular flow of goods. Our B2B project differs from others due to the instant information flow and interaction provided by your mobile application. By delivering instant notifications to your customers about stock levels, new products, discounts, and other important information, you facilitate their business management and decision-making. This can help your customers manage their stocks more effectively and respond faster to their needs. Instant notifications provide your customers with timely and accurate access to information, enabling them to manage their business more efficiently. Additionally, providing this service through a mobile application can help your customers manage their business more intelligently and gain a competitive advantage. This is also a distinguishing feature of our B2B project that can strengthen your customers' relationships with you."
+  },
+  "wms": {
+    "title": "Goods Receipt: This module facilitates the acceptance and recording of new materials arriving at the warehouse. Material acceptance processes typically involve receiving deliveries, checking received goods, labeling them, and adding them to the warehouse inventory.",
+    "title2": "Shipment: This module manages the preparation and shipment of materials to customers. All operations are usually performed using handheld terminals or mobile devices. This includes order picking, packaging, shipment preparation, and transportation.",
+    "title3": "Inventory Count: This module ensures the periodic counting and verification of materials present in the warehouse. This is important to ensure inventory accuracy and detect stock discrepancies. It also features a quick counting capability that allows for inventory operations without disrupting warehouse activities.",
+    "title4": "Movement: This module manages the transfer of materials between warehouses. For example, it includes processes such as transferring excess stock from one warehouse to another or moving material from one section to another.",
+    "title5": "Production: This module manages and tracks production processes. It includes production planning, creation of work orders, tracking of raw materials and processed products, etc.",
+    "title6": "Product Retrieval: This module facilitates finding a specific product in the warehouse. It is commonly used to locate items in inventory, reducing the time and effort of personnel.",
+    "title7": "Reporting: This module provides reports on various operational metrics. These reports may include information such as best-selling products, employee working hours, inventory levels, order statuses, and more. These reports assist business managers in decision-making processes and are used to evaluate the company's performance."
+  },
+  "d2d": {
+    "title": "D2D: You can create a mobile application or web-based system to develop a project that shows the instant status of customers distributing orders and when they place an order. Here are the key features for this project:",
+    "title2": "User Management: Create a user management system to allow customers distributing orders and managers to log into the system.",
+    "title3": "Order Management: Provide an interface for customers to create, edit, and cancel orders. The status of orders (being prepared, being delivered, delivered, etc.) should be displayed.",
+    "title4": "Location Identification: Add a feature to identify the locations of customers. This is important for order distribution and helps customers predict when their orders will arrive.",
+    "title5": "Instant Notifications: Provide customers with instant notifications about the status of their orders. For example, notifications can be sent for order preparation, courier departure, etc.",
+    "title6": "Order Tracking: Provide a screen where customers can track the stage of their orders and the estimated delivery time.",
+    "title7": "Reporting: Add a reporting tool that allows managers to see the current and overall sales status. These reports can be used to evaluate the company's performance.",
+    "title8": "Performance Monitoring: Provide a tool for tracking the performance of delivery personnel. This may include data such as the number of orders delivered within a specific time period, etc. User-Friendly Interface: Provide an interface that allows users to easily place and track orders. It is important for the interface to be user-friendly and accessible. These features can create the foundation for a project that facilitates the management and tracking of D2D customer orders."
+  },
+  "footer": {
+    "reser": "Copyright 2022. All Rights Reserved"
   }
-  
+}

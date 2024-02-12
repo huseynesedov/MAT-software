@@ -10,6 +10,9 @@ import Home from './App';
 import Proje from './Pages/Projects/proje';
 import About from './Pages/About/about';
 import Servis from './Pages/Servis/servis';
+import D2d from './Pages/Detail/d2d';
+import Wms from './Pages/Detail/wms';
+import B2b from './Pages/Detail/B2b';
 
 
 
@@ -36,6 +39,9 @@ function Index() {
           <Route path="/Projects" element={<Proje />} />
           <Route path="/About" element={<About />} />
           <Route path="/Servis" element={<Servis />} />
+          <Route path="/D2d" element={<D2d />} />
+          <Route path="/B2b" element={<B2b />} />
+          <Route path="/Wms" element={<Wms />} />
 
         </Routes>
         <ScrollToTop />

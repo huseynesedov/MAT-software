@@ -1,0 +1,74 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Ramabhadra&family=Roboto:wght@300&family=Ubuntu&display=swap');
+
+.job-infor-main h1 {
+    color: white;
+    margin-left: 50px;
+}
+
+.job-center-main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.xet {
+    width: 11%;
+    height: 2px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    border-radius: 9px;
+    border: 2px solid #CD8533;
+}
+
+.h5 {
+    width: 90%;
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    text-transform: none;
+    font-style: normal;
+    text-align: left;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    line-height: 1.7em;
+    color: #ffffff;
+}
+
+.textMain {
+    display: flex;
+    margin-bottom: 52px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div1,
+.div2,
+.div3 {
+    background-position: 50%;
+    background-size: cover;
+}
+
+.div1 {
+    background-image: url("../../assets/img/project-img1.png");
+}
+
+.div2 {
+    background-image: url("../../assets/img/project-img2.png");
+}
+
+.div3 {
+    background-image: url("../../assets/img/project-img3.png");
+}
+
+.foto {
+    width: 40%;
+    height: 500px;
+}
+@media screen and (max-width: 768px) {
+    .foto {
+        width: 90%;
+        height: 346px;
+    }
+}
