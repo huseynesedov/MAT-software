@@ -6,17 +6,15 @@ import '../../Pages/Home/css.css'
 import { GrLanguage } from "react-icons/gr";
 
 import './index.css'
-import logo from '../../assets/img/logoToolbar.svg';
+import logo from '../../assets/img/MAT_Logo_Gold.png';
 import { toast } from "react-toastify";
 import { Link } from "react-router-dom";
 import { FaWhatsapp } from "react-icons/fa";
 
 
 const dillerTablo = [
-  { name: "Türkçe", code: "tr" },
-  { name: "English", code: "en" },
   { name: "Azerbaycan", code: "az" },
-  { name: "Россия", code: "ru" },
+  { name: "Русский", code: "ru" },
 ];
 
 function Navv() {
@@ -84,7 +82,7 @@ function Navv() {
           </Nav>
 
           <span className="navbar-text">
-            <a href="https://wa.me/+994517600300" target="_blank">
+            <a href="https://wa.me/+994706003264" target="_blank">
               <FaWhatsapp className="what" />
             </a>
 

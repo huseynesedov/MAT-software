@@ -15,19 +15,19 @@ a {
     
 }
 a:checked ~ .to-be-changed{
-color: #CD8533;
+color: #E1C564;
 }
 .navbar-nav p{
     transition: 0.2s;
 }
 .navbar-nav p:hover{
     transition: 0.2s;
-    color: #CD8533;
+    color: #E1C564;
 }
 
 
 .what:hover{
-    color: #CD8533;
+    color:#E1C564;
     transition: 0.2s;
 }
 .navbar-text a{
@@ -59,7 +59,7 @@ svg{
 }
 svg:hover{
     transition: 0.2s;
-   color: #CD8533;
+   color: #E1C564;
 }
 .what {
     animation: shake 0.5s;

@@ -2,9 +2,6 @@ import i18n from "i18next";
 import LanguageDetector from 'i18next-browser-languagedetector';
 import { initReactI18next } from "react-i18next";
 
-
-import tEN from "./en/en.json";
-import tTR from "./tr/tr.json";
 import tRU from "./ru/ru.json";
 import tAZ from "./az/az.json";
 
@@ -13,12 +10,6 @@ i18n
   .use(initReactI18next) 
   .init({
     resources: {
-    en: {
-      translation: tEN,
-    },
-    tr: {
-      translation: tTR,
-    },
     az:{
       translation: tAZ, 
     },

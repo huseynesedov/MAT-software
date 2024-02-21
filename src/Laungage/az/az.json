@@ -17,7 +17,7 @@
     "bt": "Ən Yaxşı IT Həlləri",
     "tekno": "Texnologiya Gücü ilə Biznes Dünyasını Dəyişdiririk",
     "mat": "MAT yazılımı kimi, biz texnologianın gücünü istifadə edərək iş dünyasında inqilab başlatırıq. Biz buradayıq ki, iş proseslərinizi daha səmərəli, effektiv və rəqabət üstünlüyünüzü artıraraq dəyişdirək.",
-    "we": "Niyə Biz?"
+    "we": "Biz Kimik?"
   },
   "Projects": {
     "proje": "Layihələr",
@@ -42,10 +42,14 @@
     "prog": "Proqramlaşdırma",
     "info-prog": "Komputerlərin anlaya biləcəyi təlimatların yazılması ilə komputer proqramının yaradılmasını təmin edən bir prosesdir. Bu proses, proqramlaşdırma dilləri vasitəsilə alqoritmləri tətbiq edərək proqram tərbiyə etməni içərir, komputerlərin müəyyən tapşırıqları yerinə yetirməsini təmin edir."
   },
-  "B2b": {
+  "b2b": {
+    "name": "B2B",
+    "des": "Biznesdən Biznesə",
     "title": "B2B: Bu kürd, 'Biznesdə Biznesə' ifadəsinin qısaltmasıdır və işlər arasında ticarəti bildirir. Bu növ ticarətdə bir iş və ya bir sahibkarlıq digər bir işə mal və ya xidmət satmaqdadır. B2B ticarəti əsasən toptan ticarət, sənaye malları və xidmətlər, təchizat zənciri idarəetmə kimi sahələrdə baş verir. B2B əlaqələri, iki iş arasında uzunmüddətli əməkdaşlığa əsaslanabilir və iri sifarişlər və tənzimli malların axışını içərisində ola bilər. Bizim B2B layihəmiz, mobil tətbiqiniz tərəfindən təmin edilən anlık məlumat axını və tərəfdaşlığı ilə fərqlənir. Siz müştərilərinizə anlık bildirişlərlə anbarda olan mal və ya xidmətlər, yeni məhsullar, girovlar və digər əhəmiyyətli məlumatlar haqqında məlumatlar təmin edərək, onların işlərini idarə etmələrini və qərar vermələrini asanlaşdırırsınız. Bu, müştərilərinizin anbarda sərf etmələrini daha effektiv şəkildə idarə etmələrini və tələblərinə daha tez reaksiya vermələrini kömək edə bilər. Anlık bildirişlər, müştərilərinizin vaxtında və doğru məlumata çatmağını təmin edir, bu isə onların işlərini daha effektiv şəkildə idarə etmələrini mümkün edir. Həmçinin, bu xidməti mobil tətbiq vasitəsilə təmin etmək, müştərilərinizin işlərini daha ağıllıca idarə etmələrini və müqavimət əldə etmələrini kömək edə bilər. Bu da bizim B2B layihəmizi digərlərindən ayıran bir xüsusiyyətdir və müştərilərinizin sizinlə olan əlaqələrini gücləndirə bilər."
   },
   "wms": {
+    "name": "WMS",
+    "des": "Anbar İdarəetmə Sistemi",
     "title": "Malların Qəbulu: Bu modul, depoya gələn yeni materialların qəbulunu və qeydini təmin edir. Material qəbul prosesləri əsasən təhvil alımını içərisində, gətirilən malların yoxlanılmasını, işarələnməsini və depo anbarına əlavə olunmasını içərir.",
     "title2": "Göndəriş: Bu modul materialların müştərilərə göndərilməsinin hazırlanmasını və idarəetməsini təmin edir. Bütün əməliyyatlar əsasən əlin terminal və ya mobil cihazlar vasitəsilə həyata keçirilir. Bu, sifariş toplamaq, paketləmə, göndəriş hazırlığı və nəqliyyat əməliyyatlarını içərir.",
     "title3": "Inventar Sayı: Bu modul, depoda olan materialların müəyyən aralıqlarla sayılmasını və doğrulamasını təmin edir. Bu, inventarın doğruluğunu təmin etmək və ehtiyatsızlıqları aşkar etmək üçün əhəmiyyətlidir. Bundan əlavə, bu, depo əməliyyatlarını dayandırmadan tez inventar əməliyyatları etməyə imkan verən sürətli sayım imkanına malikdir.",
@@ -55,6 +59,8 @@
     "title7": "Hesabat: Bu modul müxtəlif əməliyyat metrikaları ilə bağlı hesabatlar təmin edir. Bu hesabatlar ən çox satılan məhsullar, işçilərin iş saatları, inventar səviyyələri, sifarişlərin vəziyyəti kimi məlumatları içərə bilər. Bu hesabatlar iş idarəetməçilərinə qərar vermə proseslərində kömək edir və şirkətin performansını qiymətləndirmək üçün istifadə olunur."
   },
   "d2d": {
+    "name": "D2D",
+    "des": "D2D sifariş paylayan müştərilərin cari və satış qiymətlərini göstərən layihədir.",
     "title": "D2D: Siz anlık və satılan malların sayını göstərən bir layihə inkişaf etdirmək üçün mobil tətbiq və ya veb-əsaslı bir sistem yarada bilərsiniz. İşte bu layihə üçün əsas xüsusiyyətlər:",
     "title2": "İstifadəçi İdarəetməsi: Sifariş dağıtan müştərilərin və idarəetməçilərin sistemə daxil ola biləməsi üçün bir istifadəçi idarəetmə sistemi yaradın.",
     "title3": "Sifariş İdarəetməsi: Müştərilərin sifarişlərini yaratmaq, redaktə etmək və ləğv etmələri üçün bir interfeys təmin edin. Sifarişlərin vəziyyəti (hazırlanıyor, çatdırılır, çatdırıldı və s.) göstərilməlidir.",

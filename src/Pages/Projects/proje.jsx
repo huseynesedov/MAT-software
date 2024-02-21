@@ -45,8 +45,8 @@ function App() {
                                                                 <div className="proj-imgbx">
                                                                     <img src={projImg1} />
                                                                     <div className="proj-txtx">
-                                                                        <h4>WMS</h4>
-                                                                        <span>Goods Receipt, Shipment, Counting, Movement, Production, Product Finding, Reporting</span>
+                                                                        <h4>{t("wms.name")}</h4>
+                                                                        <span>{t("wms.des")}</span>
                                                                     </div>
                                                                 </div>
                                                             </Link>
@@ -56,8 +56,8 @@ function App() {
                                                                 <div className="proj-imgbx">
                                                                     <img src={projImg2} />
                                                                     <div className="proj-txtx">
-                                                                        <h4>B2B projesi</h4>
-                                                                        <span>Business to Business</span>
+                                                                        <h4>{t("b2b.name")}</h4>
+                                                                        <span>{t("b2b.des")}</span>
                                                                     </div>
                                                                 </div>
                                                             </Link>
@@ -67,8 +67,8 @@ function App() {
                                                                 <div className="proj-imgbx">
                                                                     <img src={projImg3} />
                                                                     <div className="proj-txtx">
-                                                                        <h4>D2D</h4>
-                                                                        <span>D2D is a project that shows the current and sales prices of customers who distribute orders.</span>
+                                                                        <h4>{t("d2d.name")}</h4>
+                                                                        <span>{t("d2d.des")}</span>
                                                                     </div>
                                                                 </div>
                                                             </Link>

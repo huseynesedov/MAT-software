@@ -27,7 +27,7 @@ export const Banner = () => {
                   <p>
                     {t("Home.mat")}
                   </p>
-                  <Link to="/Projects">
+                  <Link to="/About">
                     <button onClick={() => console.log('connect')}>{t("Home.we")} <ArrowRightCircle size={25} /></button>
                   </Link>
                 </div>}
