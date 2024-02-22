@@ -15,6 +15,8 @@ import { FaWhatsapp } from "react-icons/fa";
 const dillerTablo = [
   { name: "Azerbaycan", code: "az" },
   { name: "Русский", code: "ru" },
+  { name: "English", code: "en" },
+  { name: "Türkçe", code: "tr" },
 ];
 
 function Navv() {

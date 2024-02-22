@@ -4,6 +4,8 @@ import { initReactI18next } from "react-i18next";
 
 import tRU from "./ru/ru.json";
 import tAZ from "./az/az.json";
+import tEN from "./en/en.json";
+import tTR from "./tr/tr.json";
 
 i18n
   .use(LanguageDetector) 
@@ -15,6 +17,12 @@ i18n
     },
     ru:{
       translation: tRU, 
+    },
+    en:{
+      translation: tEN, 
+    },
+    tr:{
+      translation: tTR, 
     }
   },
   

@@ -14,7 +14,7 @@
     "mat4": "3. Texnologiyadan İstifadə Etme Gücü: İnovasiya və texnoloji inkişaf ilə güclü şəkildə inteqrasiya oluruq. Müştərilərimizə təklif etdiyimiz həllərdə, ən son texnologiyalardan istifadə edərək iş proseslərinizi yaxşılaşdırırıq və rəqabət üstünlüyü əldə etməyinizə kömək edirik. MAT yazılımı kimi, sizinlə birgə işləmək və iş dünyasında müvəffəqiyyətli bir dəyişiklik təmin etmək üçün sabırsızlanırıq. Sizi ailəmizə qoşulmağın təəccüblərini yaşamaq və sizə xüsusi həllər təqdim etməyin qürurunu yaşamaq üçün buradayıq."
   },
   "Home": {
-    "bt": "Ən Yaxşı IT Həlləri",
+    "bt": " Innovativ IT Həlləri",
     "tekno": "Texnologiya Gücü ilə Biznes Dünyasını Dəyişdiririk",
     "mat": "MAT yazılımı kimi, biz texnologianın gücünü istifadə edərək iş dünyasında inqilab başlatırıq. Biz buradayıq ki, iş proseslərinizi daha səmərəli, effektiv və rəqabət üstünlüyünüzü artıraraq dəyişdirək.",
     "we": "Biz Kimik?"
@@ -49,7 +49,7 @@
   },
   "wms": {
     "name": "WMS",
-    "des": "Anbar İdarəetmə Sistemi",
+    "des": "Depo İdarəetme Sistemi",
     "title": "Malların Qəbulu: Bu modul, depoya gələn yeni materialların qəbulunu və qeydini təmin edir. Material qəbul prosesləri əsasən təhvil alımını içərisində, gətirilən malların yoxlanılmasını, işarələnməsini və depo anbarına əlavə olunmasını içərir.",
     "title2": "Göndəriş: Bu modul materialların müştərilərə göndərilməsinin hazırlanmasını və idarəetməsini təmin edir. Bütün əməliyyatlar əsasən əlin terminal və ya mobil cihazlar vasitəsilə həyata keçirilir. Bu, sifariş toplamaq, paketləmə, göndəriş hazırlığı və nəqliyyat əməliyyatlarını içərir.",
     "title3": "Inventar Sayı: Bu modul, depoda olan materialların müəyyən aralıqlarla sayılmasını və doğrulamasını təmin edir. Bu, inventarın doğruluğunu təmin etmək və ehtiyatsızlıqları aşkar etmək üçün əhəmiyyətlidir. Bundan əlavə, bu, depo əməliyyatlarını dayandırmadan tez inventar əməliyyatları etməyə imkan verən sürətli sayım imkanına malikdir.",
@@ -60,7 +60,7 @@
   },
   "d2d": {
     "name": "D2D",
-    "des": "D2D sifariş paylayan müştərilərin cari və satış qiymətlərini göstərən layihədir.",
+    "des": "İstifadəçilərin mənzilləri arasında yol xəritələri göstərən və rota təyin edən bir naviqasiya proqramıdır.",
     "title": "D2D: Siz anlık və satılan malların sayını göstərən bir layihə inkişaf etdirmək üçün mobil tətbiq və ya veb-əsaslı bir sistem yarada bilərsiniz. İşte bu layihə üçün əsas xüsusiyyətlər:",
     "title2": "İstifadəçi İdarəetməsi: Sifariş dağıtan müştərilərin və idarəetməçilərin sistemə daxil ola biləməsi üçün bir istifadəçi idarəetmə sistemi yaradın.",
     "title3": "Sifariş İdarəetməsi: Müştərilərin sifarişlərini yaratmaq, redaktə etmək və ləğv etmələri üçün bir interfeys təmin edin. Sifarişlərin vəziyyəti (hazırlanıyor, çatdırılır, çatdırıldı və s.) göstərilməlidir.",
