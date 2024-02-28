@@ -19,7 +19,7 @@ function Home() {
       <Banner />
       <Skills />
       <Projects />
-      <Contact />
+      <Contact id="#connect" />
       <Footer />
     </>
   );

@@ -81,6 +81,11 @@ function Navv() {
               {t("nav.service")}
               </p>
             </Link>
+            <a href="/#connect">
+              <p>
+              {t("nav.contact")}
+              </p>
+            </a>
           </Nav>
 
           <span className="navbar-text">

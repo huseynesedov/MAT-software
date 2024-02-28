@@ -3,7 +3,8 @@
         "home": "Ev",
         "service": "Hizmetler",
         "we": "Biz Kimiz?",
-        "project": "Projeler"
+        "project": "Projeler",
+        "contact": "İletişim"
     },
     "About": {
         "we": "Biz Kimiz?",
@@ -47,7 +48,7 @@
         "title": "B2B, Business to Business ifadesinin kısaltmasıdır ve işletmeler arası ticareti ifade eder. Bu tür ticarette, bir işletme diğer bir işletmeye mal veya hizmet satmaktadır. B2B ticareti genellikle toptan ticaret, endüstriyel mal ve hizmetler, tedarik zinciri yönetimi gibi alanlarda gerçekleşir. B2B ilişkileri, iki işletme arasındaki uzun vadeli işbirliğine dayanabilir ve büyük ölçekli siparişler ve düzenli mal akışını içerebilir. B2B projemizin diğerlerinden farkı, mobil uygulamanızın sağladığı anlık bilgi akışı ve etkileşimdir. Müşterilerinize stoklar hakkında, yeni ürünler hakkında, indirimler ve diğer önemli bilgiler hakkında anlık bildirimler sağlayarak, onların işlerini yönetmelerini ve karar almalarını kolaylaştırırsınız. Bu, müşterilerinizin stoklarını daha etkili bir şekilde yönetmelerine ve gereksinimlerine daha hızlı yanıt vermelerine yardımcı olabilir.Anlık bildirimler, müşterilerinizin zamanında ve doğru bilgiye erişimini sağlar, bu da onların işlerini daha verimli bir şekilde yönetmelerini sağlar. Ayrıca, müşterilerinizin işletmelerine daha yakın bir ilişki kurmalarını sağlayarak, onların memnuniyetini artırabilir ve sadakatlerini güçlendirebilirsiniz.Mobil uygulama aracılığıyla sağlanan bu hizmet, müşterilerinizin işlerini daha akıllıca yönetmelerine ve rekabet avantajı elde etmelerine yardımcı olabilir. Bu da bizim B2B projesini diğerlerinden ayıran bir özelliktir ve müşterilerinizin sizinle olan ilişkilerini güçlendirebilir."
     },
     "wms": {
-        "name": "WMS",
+        "name": "Depo Yönetim Sistemi",
         "title": "Mal Kabul: Bu modül, depoya gelen yeni malzemelerin kabul edilmesini ve kaydedilmesini sağlar. Malzeme kabul işlemleri genellikle teslimat alımını içerir ve gelen ürünlerin kontrol edilmesini, etiketlenmesini ve depo envanterine eklenmesini içerir.",
         "title2": "Sevkiyat: Bu modül, müşterilere gönderilen malzemelerin hazırlanmasını ve sevkiyatını yönetir. Tüm işlemler genellikle el terminalleri veya mobil cihazlar aracılığıyla yapılır. Bu, siparişleri toplama, paketleme, sevkiyat hazırlığı ve taşıma işlemlerini içerir.",
         "title3": "Sayım: Bu modül, depoda bulunan malzemelerin periyodik olarak sayılmasını ve doğrulanmasını sağlar. Bu, envanterin doğruluğunu sağlamak ve stok tutarsızlıklarını tespit etmek için önemlidir. Ayrıca, depo faaliyetlerini durdurmadan hızlı sayım işlemleri yapmayı sağlayan bir özelliğe sahiptir.",
@@ -55,6 +56,52 @@
         "title5": "Üretim: Bu modül, üretim işlemlerini yönetir ve takip eder. Üretim planlaması, iş emirlerinin oluşturulması, hammaddelerin ve işlenmiş ürünlerin takibi gibi işlemleri içerir.",
         "title6": "Ürün Bulma: Bu modül, depoda bulunan belirli bir ürünü bulmayı kolaylaştırır. Genellikle envanterdeki ürünlerin yerini belirlemek için kullanılır ve personelin zamanını ve çabasını azaltır.",
         "title7": "Raporlama: Bu modül, çeşitli operasyonel metriklerle ilgili raporlar sağlar. En çok satılan ürünler, çalışanların çalışma saatleri, envanter seviyeleri, siparişlerin durumu gibi bilgileri içerebilir. Bu raporlar işletme yöneticilerine karar verme süreçlerinde yardımcı olur ve işletmenin performansını değerlendirmek için kullanılır."
+    },
+    "wmsTitle": {
+        "title0": "Depo Yönetimi Projesinin Önemi ve Gerekçesi",
+        "title00": "Ürünler, teslim alma ve sevkiyat aşamasında depo çalışanları tarafından sayılır ve sevkiyat belgesine göre kontrol edilir. Bu süreçlerde büyük boşluklar ve hatalar yapılıyor. Sorunlar:",
+        "one": "1. Verimsizlik (Stok Uyuşmazlığı, İletişim Eksikliği,Manuel Süreçler, Bilgi Eksikliği)",
+        "two": "2. Aşırı zaman kaybı",
+        "three": "3. Fazla çalışmak ve çalışanlara bağımlı olmak.",
+        "four": "4. Stokun yanlış hesaplanması",
+        "five": "5. Depodan geç çıkan siparişler",
+        "six": "6. Yanlış gönderilen üründen dolayı müşteri memnuniyetsizliği",
+        "tit": "Verimsizlik ne demek?",
+        "title000": "Envanter tutarsızlıkları: Envanter seviyelerinin yanlış hesaplanması veya yanlış envanter yönetimi, envanter tutarsızlıklarına ve eksikliklere yol açabilir. Envanter düzeylerinin yanlış hesaplanması, işletmenin sahip olduğu ürün veya malzeme miktarını doğru bir şekilde belirleyemediği anlamına gelir.",
+        "one1": "1. Aşırı stok: Stok seviyelerinin şişirilmesi durumunda depo alanının verimsiz kullanılması, depolama maliyetlerinin artması, ürünlerin eskime ve değer kaybetme riski gibi sorunlar ortaya çıkabilir.",
+        "two2": "2. Düşük stok: Stok seviyelerinin eksik tahmin edilmesi, müşteri isteklerinin karşılanamaması, satış kayıpları ve müşteri memnuniyetsizliği gibi sorunlara yol açabilir.",
+        
+        "wmsTitle1Name": "Mal Teslim Alma Süreci",
+        "wmsTitle1One": "Mal teslim alma aşaması barkod okutularak gerçekleştirilir.El terminalleri ve barkod okuma:ERP sistemiyle entegre bir depo yönetim sistemi, depo çalışanlarının nakliye belgelerini el terminallerine yüklemesine olanak tanır. Bu terminaller depodaki ürünleri kolayca tanımlayan barkodları okumak için kullanılır. Böylece manuel hataların önüne geçilir ve işlem hızı arttırılır.",
+        "wmsTitle1Two": "Sistem Monitörü ve Depo Müdürüne Anlık Bilgilendirme: Depo çalışanlarının yaptığı barkod okuma işlemleri sistem tarafından anında doğrulanır. ERP sistemi depo içindeki depo hareketlerini, sevkiyatları ve satın almaları kaydeder. Bu bilgi anında depo yöneticisine iletilir.",
+        
+        "wmsTitle2Name": "Sipariş toplama sürecinde raf ağırlığından ve zamandan tasarruf:",
+        "wmsTitle2One": "Ürünlerin Sisteme Kaydedilmesi: Depodaki ürünlerin sisteme doğru şekilde kaydedilmesi durumunda, depodaki her ürünün konumu ve özellikleri depo yönetim sistemi tarafından bilinir. Bu, sipariş toplama sürecinde işleri daha kolay ve hatasız hale getirir. Bu da müşteriye yanlış ürün gönderme hatasının ortadan kalkması anlamına geliyor.",
+        "wmsTitle2Two": "1. Terminallere Sipariş Yükleme: Depo yönetim sistemi tarafından depodan otomatik olarak çıkacak ürünlerin listesi belirlendikten sonra siparişler depo çalışanlarının manuel terminallerine yüklenir. Bu terminaller çalışana hangi raftan hangi ürünü seçeceğini gösterir.",
+        "wmsTitle2Three": "2. Tek seferde depodan toplama: Raf ağırlığına dayalı bu yönlendirme, depo çalışanlarının siparişin tamamını tek seferde toplamasına olanak tanır. Bu, depodaki gereksiz ciroları önler ve toplama sürecini hızlandırır.Bu yöntem zamandan tasarruf sağlar ve hataları en aza indirerek müşteri memnuniyetini ve genel iş verimliliğini artırır. ",
+        
+        "wmsTitle3Name": "Saymak",
+        "wmsTitle3One": "Akıllı WMS depo yazılımı, tüm muhasebe süreçlerinin maksimum verimlilikle gerçekleşmesini sağlamak için bir dizi çözüm sunar. El terminalleri ile sayım, gerçek zamanlı stok takibi ve parti/parti karşılaştırması gibi uygulamalar, tüm operasyonların kontrolünü ve yürütülmesini basitleştirir ve hataları en aza indirir. Akıllı WMS'nin temel farkı, sayım sırasında depoyu kapatmaya ve deponun çalışmasını durdurmaya gerek kalmadan sayım işlemini gerçekleştirmesidir.",
+        
+        "wmsTitle4Name": "Stok yönetimi",
+        "wmsTitle4One": "Envanter izleme yazılımı, transit halindeki ve mağazadaki ürünler de dahil olmak üzere bir kuruluşun envanterinin her yerde gerçek zamanlı görünürlüğünü sağlar. Stok yazılım çözümleri; Ürün ve satıcı performansına ilişkin gelişmiş analitik ve içgörüleri kullanarak parti/parti takibini, palet takibini, raf takibini, hasarlı, reddedilen ve engellenen mal takibini, envanter hesaplamasını ve talep tahminini destekler.",
+        
+        "wmsTitle5Name": "Etiket tasarım modülü",
+        "wmsTitle5One": "Smart WMS Depo Yönetimi Otomasyonunun Etiket Tasarım Modülü ile dilediğiniz kadar etiket tasarlayabilir, ürün ve raf etiketlerini bu modül üzerinden yönetebilirsiniz. WMS Depo Yönetimi Otomasyonu EAN, Seri, GS1-128 ve QR kod gibi tüm barkod türlerini destekler.",
+        
+        "wmsTitle6Name": "Raporlama Modülü",
+        "wmsTitle6One": "Depo Yönetimi Otomasyonunun WMS - Raporlama Modülü sayesinde sınırsız sayıda rapor oluşturularak istenilen saat ve tarihte alıcılara raporlar ulaştırılabilmektedir. Raporlar: En çok satan ürünler, stok hareketleri, çalışanların kaç saat çalıştığı vb. Rapor mevcut.",
+        
+        "wmsTitle7Name": "İnsan gücü yönetimi",
+        "wmsTitle7One": "WMS; Depo personelini, işçilik maliyetlerini, yanıt sürelerini, üretkenlik boşluklarını, planlanacak eğitimi ve daha fazlasını içerir. Gerçek zamanlı görünürlük sağlayarak işletmeleri işgücü yönetimi konusunda destekler. Böylece işletmeler uygun personel görev ve sorumluluklarını atayarak performans izleme ve yönetim faaliyetlerini daha etkin bir şekilde gerçekleştirebilmektedir.",
+   
+        "wmsTitle8Name": "Üretim",
+        "wmsTitle8One": "Bir WMS, tahminden siparişe, depolamadan tedarikçi tedarikine, üretim planlamadan yürütmeye kadar birbiriyle ilişkili ve örtüşen birçok operasyonun doğru şekilde yürütülmesini sağlar. Bu bağlamda sevkiyat, mal kabul ve kalite kontrol çözümleri geliştirerek tüm üretim operasyonlarını daha verimli hale getirir. Üretim adresi tanımlama, üretim iş emri desteği, iş emirlerindeki sarfiyat ve fire miktarlarının değiştirilmesi, otomatik sarf/atık fişi oluşturulması ve üretim miktarlarına bağlanma gibi özelliklerin yer aldığı modül sayesinde tüm üretim süreçlerinizin uçtan uca yönetimini kolaylaştırabilirsiniz.",
+        
+        "wmsTitle9Name": "Siparişin iadesi",
+        "wmsTitle9One": "WMS - Depo yönetim sistemleri sayesinde farklı büyüklükteki tüm işletmeler iade süreçlerini maksimum verimlilik ve etkinlikle yönetebilirler. İade girişlerini ve sağlam/hasarlı iadeleri yöneterek depo süreçlerini kontrol edebilirsiniz."
+   
+   
     },
     "d2d": {
         "name": "D2d",

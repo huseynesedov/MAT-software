@@ -2,7 +2,7 @@ import Navv from "../../Components/Nav/Navv"; // Update import statement
 import { Footer } from "../../Components/Footer/Footer";
 import { useTranslation } from "react-i18next";
 import { Helmet } from "react-helmet";
-
+import bg from '../../assets/img/bg-2-kopya.jpeg'
 function About() {
     const { t } = useTranslation();
 
@@ -28,7 +28,7 @@ function About() {
                         >
                             <div className="h-100 position-relative">
                                 <img
-                                    src="http://softwaremat.com/img/about-1.jpg"
+                                    src="http://softwaremat.com/img/about-2.jpg"
                                     className="img-fluid w-75 rounded"
                                     alt=""
                                     style={{ marginBottom: "25%" }}
@@ -38,7 +38,7 @@ function About() {
                                     style={{ top: "25%", left: "25%" }}
                                 >
                                     <img
-                                        src="http://softwaremat.com/img/about-2.jpg"
+                                        src={bg}
                                         className="img-fluid w-75 rounded"
                                         alt=""
 

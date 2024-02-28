@@ -21,7 +21,7 @@ function Arm() {
             <div className="top-70"></div>
             <div className="job-infor-main">
                 <h1>
-                    {t("B2b.name")}
+                    {t("b2b.name")}
                 </h1>
             </div>
             <div className="job-center-main">
@@ -32,7 +32,7 @@ function Arm() {
                     <div className="xet"></div>
                     
                     <h5 className='h5'>
-                        {t("B2b.title")}
+                        {t("b2b.title")}
                     </h5>
 
                 </div>

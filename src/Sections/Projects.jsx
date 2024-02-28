@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
-import projImg1 from "../assets/img/project-img1.png";
+import projImg1 from "../assets/img/project-img1.jpg";
 import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg3 from "../assets/img/project-img3.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
 import { useTranslation } from "react-i18next";

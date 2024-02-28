@@ -1,8 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&family=Roboto:wght@300&family=Ubuntu&display=swap');
 
-  @import url('https://fonts.googleapis.com/css2?family=Ramabhadra&family=Roboto:wght@300&family=Ubuntu&display=swap');
-
-.job-infor-main h1 {
-    color: white;
+.s h1 {
+    color: black;
     margin-left: 50px;
 }
 
@@ -10,30 +9,15 @@
     width: 100%;
     display: flex;
     align-items: center;
-    margin-top: 50px;
 }
 
-.xet {
-    width: 11%;
-    height: 2px;
-    margin-top: 25px;
-    margin-bottom: 20px;
-    border-radius: 9px;
-    border: 2px solid #CD8533;
+.s {
+    background-color: white;
 }
 
-.h5 {
-    width: 90%;
-    font-family: 'Ramabhadra', sans-serif;
-    font-size: 1em;
-    font-weight: 500;
-    text-transform: none;
-    font-style: normal;
-    text-align: left;
-    letter-spacing: 0.5px;
-    text-decoration: none;
-    line-height: 1.7em;
-    color: #ffffff;
+
+.h55 {
+    color: black;
 }
 
 .textMain {
@@ -51,7 +35,7 @@
 }
 
 .div1 {
-    background-image: url("../../assets/img/project-img1.png");
+    background-image: url("../../assets/img/project-img1.jpg");
 }
 
 .div2 {
@@ -59,16 +43,147 @@
 }
 
 .div3 {
-    background-image: url("../../assets/img/project-img3.png");
+    background-image: url("../../assets/img/project-img3.jpg");
+}
+
+.div4 {
+    background-image: url("../../assets/img/Resim1.jpg");
+}
+
+.div5 {
+    background-image: url("../../assets/img/Resim1.jpg");
+}
+
+.div6 {
+    background-image: url("../../assets/img/Resim4.jpg");
+}
+
+.div7 {
+    background-image: url("../../assets/img/Resim13.jpg");
+}
+
+.div8 {
+    background-image: url("../../assets/img/Resim14.jpg");
+}
+
+.div9 {
+    background-image: url("../../assets/img/Resim7.jpg");
+}
+
+.div10 {
+    background-image: url("../../assets/img/resim15.jpg");
+}
+
+.div11 {
+    background-image: url("../../assets/img/Resim9.png");
+}
+
+.div12 {
+    background-image: url("../../assets/img/Resim10.png");
+}
+
+.div13 {
+    background-image: url("../../assets/img/istehsal.PNG");
+}
+.div14 {
+    background-image: url("../../assets/img/Resim3.png");
+}
+
+.fotoCenter {
+    width: 33%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .foto {
-    width: 40%;
-    height: 500px;
+    background-position: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70%;
 }
+
 @media screen and (max-width: 768px) {
+    
+.foto-contents {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.fotoCenter {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
     .foto {
-        width: 90%;
+        width: 100%;
         height: 346px;
     }
+    .title-center ,.title-centers{
+        width: 90% !important; 
+    }
+}
+
+
+
+.foto-content {
+    margin-top: 20px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid white;
+}
+
+.title-center {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-centers {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.title {
+    width: 50%;
+}
+
+.tit {
+    margin-top: 50px;
+    color: black;
+}
+
+.tit h2 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.red {
+    color: #dbbd52;
+}
+
+.title-bot {
+    font-size: 20px;
+}
+
+.foto-contents {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    width: 50%;
 }
