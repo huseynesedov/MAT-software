@@ -26,11 +26,13 @@ function Arm() {
             </div>
             <div className="job-center-main">
                 <div className="textMain">
+                    <div className='fotoCenter'>
 
-                    <div className="div3 foto"></div>
+                        <div className="div3 foto"></div>
+                    </div>
 
                     <div className="xet"></div>
-                    
+
                     <h5 className='h5'>
 
                         {t("d2d.title")}
