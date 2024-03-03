@@ -20,12 +20,13 @@ function Arm() {
             <Navv />
             <div className="top-70"></div>
             <div className="job-infor-main">
-                <h1>
+                <h1 className='hh11'>
                     {t("wms.name")}
                 </h1>
             </div>
             <div className="job-center-main s">
                 <div className="textMain">
+                <div className="topp20"></div>
 
                     <div className="foto-contents">
                         <div className='title-center'>
@@ -62,7 +63,6 @@ function Arm() {
                             <div className="div1 foto"></div>
                         </div>
                     </div>
-
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
@@ -87,7 +87,39 @@ function Arm() {
                         </div>
 
                     </div>
+                    <div className="foto-contents">
+                        <div className='title-center'>
+                            <h2 className="red">
+                                {t("wmsTitle.wmsTitle10Name")}
+                            </h2>
+                            <div className='tit'>
+                                <p className="title-bot">
 
+                                    {t("wmsTitle.wmsTitle10One")}
+                                </p>
+                            </div>
+                        </div>
+                        <div className='fotoCenter'>
+                            <div className="div15 foto"></div>
+                        </div>
+                    </div>
+                    <div className="foto-contents">
+                        <div className='fotoCenter'>
+
+                            <div className="div14 foto"></div>
+                        </div>
+                        <div className='title-centers'>
+                            <h2 className="red">
+                                {t("wmsTitle.wmsTitle11Name")}
+                            </h2>
+                            <div className='tit tit2'>
+                                <p className="title-bot">
+                                    {t("wmsTitle.wmsTitle11One")}
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
                     <div className="foto-contents">
                         <div className='title-center'>
                             <h2 className="red">
@@ -118,16 +150,24 @@ function Arm() {
                                 {t("wmsTitle.wmsTitle2Name")}
                             </h2>
                             <div className='tit tit2'>
+                                <h2 className="red">
+                                        {t("wmsTitle.wmsTitle2OneHeader")}
+                                </h2>
                                 <p className="title-bot">
-
                                     {t("wmsTitle.wmsTitle2One")}
                                 </p>
                                 <h2 className="red">
+                                        {t("wmsTitle.wmsTitle2TwoHeader")}
+                                </h2>
+                                <p className="title-bot">
                                     {t("wmsTitle.wmsTitle2Two")}
-                                </h2>
+                                </p>
                                 <h2 className="red">
-                                    {t("wmsTitle.wmsTitle2Three")}
+                                        {t("wmsTitle.wmsTitle2ThreeHeader")}
                                 </h2>
+                                <p className="title-bot">
+                                    {t("wmsTitle.wmsTitle2Three")}
+                                </p>
                             </div>
                         </div>
 
@@ -203,6 +243,8 @@ function Arm() {
 
                     </div>
 
+
+
                     <div className="foto-contents">
                         <div className='title-center'>
                             <h2 className="red">
@@ -220,6 +262,40 @@ function Arm() {
                         </div>
                     </div>
 
+                    <div className="foto-contents">
+                        <div className='fotoCenter'>
+
+                            <div className="div17 foto"></div>
+                        </div>
+                        <div className='title-centers'>
+                            <h2 className="red">
+                                {t("wmsTitle.wmsTitle12Name")}
+                            </h2>
+                            <div className='tit tit2'>
+                                <p className="title-bot">
+                                    {t("wmsTitle.wmsTitle12One")}
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div className="foto-contents">
+                        <div className='title-center'>
+                            <h2 className="red">
+                                {t("wmsTitle.wmsTitle13Name")}
+                            </h2>
+                            <div className='tit'>
+                                <p className="title-bot">
+                                    {t("wmsTitle.wmsTitle13One")}
+                                </p>
+                            </div>
+                        </div>
+                        <div className='fotoCenter'>
+
+                            <div className="div18 foto"></div>
+                        </div>
+                    </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
@@ -250,7 +326,7 @@ function Arm() {
                         </div>
                         <div className='fotoCenter'>
 
-                            <div className="div14 foto"></div>
+                            <div className="div19 foto"></div>
                         </div>
                     </div>
 

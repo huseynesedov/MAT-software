@@ -2,7 +2,7 @@ import Navv from "../../Components/Nav/Navv"; // Update import statement
 import { Footer } from "../../Components/Footer/Footer";
 import { useTranslation } from "react-i18next";
 import { Helmet } from "react-helmet";
-import bg from '../../assets/img/bg-2-kopya.jpeg'
+import bg from '../../assets/img/mockup-bg.jpg'
 function About() {
     const { t } = useTranslation();
 
@@ -27,24 +27,8 @@ function About() {
                             data-wow-delay=".3s"
                         >
                             <div className="h-100 position-relative">
-                                <img
-                                    src="http://softwaremat.com/img/about-2.jpg"
-                                    className="img-fluid w-75 rounded"
-                                    alt=""
-                                    style={{ marginBottom: "25%" }}
-                                />
-                                <div
-                                    className="position-absolute w-75"
-                                    style={{ top: "25%", left: "25%" }}
-                                >
-                                    <img
-                                        src={bg}
-                                        className="img-fluid w-75 rounded"
-                                        alt=""
-
-                                        style={{ marginBottom: "25%" }}
-                                    />
-                                </div>
+                                <img src={bg}className="img-fluid w-92 rounded"alt=""style={{ marginTop: "12%" }}/>
+                                
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">

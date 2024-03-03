@@ -1,7 +1,6 @@
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import { FaCode, FaEnvelopeOpen, FaExternalLinkAlt, FaFileCode, FaLaptop, FaUserSecret } from "react-icons/fa";
-import colorSharp from "../assets/img/color-sharp.png"
 import { useTranslation } from 'react-i18next';
 
 export const Skills = () => {
@@ -68,7 +67,6 @@ export const Skills = () => {
           </div>
         </div>
       </div>
-      <img className="background-image-left" src={colorSharp} alt="Image" />
     </section>
   )
 }

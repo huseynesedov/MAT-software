@@ -16,7 +16,7 @@
     },
     "Home": {
         "bt": "En İyi BT Çözümleri",
-        "tekno": "Teknolojinin Gücüyle İş Dünyasını Değiştiriyoruz.",
+        "tekno": "Teknolojinin Gücüyle İş Dünyasını Değiştiriyoruz",
         "mat": "MAT yazılım olarak, teknolojinin gücünü kullanarak iş dünyasında bir devrim başlatıyoruz. İş süreçlerinizi daha verimli, etkili ve rekabet avantajınızı artırarak dönüştürmek için buradayız.",
         "we": "Neden Biz?"
     },
@@ -76,15 +76,18 @@
         "wmsTitle1Two": "Sistem Monitörü ve Depo Müdürüne Anlık Bilgilendirme: Depo çalışanlarının yaptığı barkod okuma işlemleri sistem tarafından anında doğrulanır. ERP sistemi depo içindeki depo hareketlerini, sevkiyatları ve satın almaları kaydeder. Bu bilgi anında depo yöneticisine iletilir.",
         
         "wmsTitle2Name": "Sipariş toplama sürecinde raf ağırlığından ve zamandan tasarruf:",
-        "wmsTitle2One": "Ürünlerin Sisteme Kaydedilmesi: Depodaki ürünlerin sisteme doğru şekilde kaydedilmesi durumunda, depodaki her ürünün konumu ve özellikleri depo yönetim sistemi tarafından bilinir. Bu, sipariş toplama sürecinde işleri daha kolay ve hatasız hale getirir. Bu da müşteriye yanlış ürün gönderme hatasının ortadan kalkması anlamına geliyor.",
-        "wmsTitle2Two": "1. Terminallere Sipariş Yükleme: Depo yönetim sistemi tarafından depodan otomatik olarak çıkacak ürünlerin listesi belirlendikten sonra siparişler depo çalışanlarının manuel terminallerine yüklenir. Bu terminaller çalışana hangi raftan hangi ürünü seçeceğini gösterir.",
-        "wmsTitle2Three": "2. Tek seferde depodan toplama: Raf ağırlığına dayalı bu yönlendirme, depo çalışanlarının siparişin tamamını tek seferde toplamasına olanak tanır. Bu, depodaki gereksiz ciroları önler ve toplama sürecini hızlandırır.Bu yöntem zamandan tasarruf sağlar ve hataları en aza indirerek müşteri memnuniyetini ve genel iş verimliliğini artırır. ",
+        "wmsTitle2OneHeader": "1. Ürünlerin Sisteme Kaydedilmesi:",
+        "wmsTitle2One": "Depodaki ürünlerin sisteme doğru şekilde kaydedilmesi durumunda, depodaki her ürünün konumu ve özellikleri depo yönetim sistemi tarafından bilinir. Bu, sipariş toplama sürecinde işleri daha kolay ve hatasız hale getirir. Bu da müşteriye yanlış ürün gönderme hatasının ortadan kalkması anlamına geliyor.",
+        "wmsTitle2TwoHeader": "2. Terminallere Sipariş Yükleme:",
+        "wmsTitle2Two": "Depo yönetim sistemi tarafından depodan otomatik olarak çıkacak ürünlerin listesi belirlendikten sonra siparişler depo çalışanlarının manuel terminallerine yüklenir. Bu terminaller çalışana hangi raftan hangi ürünü seçeceğini gösterir.",
+        "wmsTitle2ThreeHeader": "3. Tek seferde depodan toplama:",
+        "wmsTitle2Three": "Raf ağırlığına dayalı bu yönlendirme, depo çalışanlarının siparişin tamamını tek seferde toplamasına olanak tanır. Bu, depodaki gereksiz ciroları önler ve toplama sürecini hızlandırır.Bu yöntem zamandan tasarruf sağlar ve hataları en aza indirerek müşteri memnuniyetini ve genel iş verimliliğini artırır. ",
         
-        "wmsTitle3Name": "Saymak",
-        "wmsTitle3One": "Akıllı WMS depo yazılımı, tüm muhasebe süreçlerinin maksimum verimlilikle gerçekleşmesini sağlamak için bir dizi çözüm sunar. El terminalleri ile sayım, gerçek zamanlı stok takibi ve parti/parti karşılaştırması gibi uygulamalar, tüm operasyonların kontrolünü ve yürütülmesini basitleştirir ve hataları en aza indirir. Akıllı WMS'nin temel farkı, sayım sırasında depoyu kapatmaya ve deponun çalışmasını durdurmaya gerek kalmadan sayım işlemini gerçekleştirmesidir.",
+        "wmsTitle3Name": "Sayım",
+        "wmsTitle3One": "Smart WMS depo yazılımı, tüm sayım süreçlerinin maksimum verimlilikle gerçekleşmesi için bir dizi çözüm sunuyor. El terminalleriyle sayım, anlık stok takip etme ve seri/lot bazında karşılaştırma yapma gibi uygulamalar tüm operasyonların kontrolünü ve yürütülmesini kolaylaştırarak hataları minimuma indiriyor.",
         
         "wmsTitle4Name": "Stok yönetimi",
-        "wmsTitle4One": "Envanter izleme yazılımı, transit halindeki ve mağazadaki ürünler de dahil olmak üzere bir kuruluşun envanterinin her yerde gerçek zamanlı görünürlüğünü sağlar. Stok yazılım çözümleri; Ürün ve satıcı performansına ilişkin gelişmiş analitik ve içgörüleri kullanarak parti/parti takibini, palet takibini, raf takibini, hasarlı, reddedilen ve engellenen mal takibini, envanter hesaplamasını ve talep tahminini destekler.",
+        "wmsTitle4One": "Stok takip programı, nakliye ve mağazalardaki mallar dahil olmak üzere herhangi bir konumdaki bir kuruluşun stoklarına gerçek zamanlı görünürlük sağlıyor. Stok programı çözümleri; seri/lot takibi, palet takibi, raf takibi, hasarlı, red ve bloke edilmiş malların takibi, ürün ve satıcı performansına ilişkin gelişmiş analitik ve öngörüleri kullanarak stok sayımını ve talep tahminini destekliyor.",
         
         "wmsTitle5Name": "Etiket tasarım modülü",
         "wmsTitle5One": "Smart WMS Depo Yönetimi Otomasyonunun Etiket Tasarım Modülü ile dilediğiniz kadar etiket tasarlayabilir, ürün ve raf etiketlerini bu modül üzerinden yönetebilirsiniz. WMS Depo Yönetimi Otomasyonu EAN, Seri, GS1-128 ve QR kod gibi tüm barkod türlerini destekler.",
@@ -99,12 +102,23 @@
         "wmsTitle8One": "Bir WMS, tahminden siparişe, depolamadan tedarikçi tedarikine, üretim planlamadan yürütmeye kadar birbiriyle ilişkili ve örtüşen birçok operasyonun doğru şekilde yürütülmesini sağlar. Bu bağlamda sevkiyat, mal kabul ve kalite kontrol çözümleri geliştirerek tüm üretim operasyonlarını daha verimli hale getirir. Üretim adresi tanımlama, üretim iş emri desteği, iş emirlerindeki sarfiyat ve fire miktarlarının değiştirilmesi, otomatik sarf/atık fişi oluşturulması ve üretim miktarlarına bağlanma gibi özelliklerin yer aldığı modül sayesinde tüm üretim süreçlerinizin uçtan uca yönetimini kolaylaştırabilirsiniz.",
         
         "wmsTitle9Name": "Siparişin iadesi",
-        "wmsTitle9One": "WMS - Depo yönetim sistemleri sayesinde farklı büyüklükteki tüm işletmeler iade süreçlerini maksimum verimlilik ve etkinlikle yönetebilirler. İade girişlerini ve sağlam/hasarlı iadeleri yöneterek depo süreçlerini kontrol edebilirsiniz."
-   
-   
+        "wmsTitle9One": "WMS - Depo yönetim sistemleri sayesinde farklı büyüklükteki tüm işletmeler iade süreçlerini maksimum verimlilik ve etkinlikle yönetebilirler. İade girişlerini ve sağlam/hasarlı iadeleri yöneterek depo süreçlerini kontrol edebilirsiniz.",
+
+        "wmsTitle10Name": "Zaman kaybı, Fazla çalışan, Stok bozulmaları",
+        "wmsTitle10One": "Bir işletme, manuel olarak yapılan mal kabul süreçlerinde benzer ürünleri ayırt etmekte zorlanıyor. Bu durum, depo personelinin aynı ürünleri defalarca saymasına yol açıyor. Örneğin, farklı parti numaralarına sahip olmayan benzer ürünler, manuel süreçlerde karmaşıklığa ve hatalara sebep oluyor.Bu durum, aynı işi daha kısa sürede ve daha az personelle yapabilen bir depo yönetim sistemine olan ihtiyacı ortaya koyuyor. Sistem, barkod etiketleri gibi teknolojileri kullanarak ürünleri otomatik olarak tanımlayabilir ve sayabilir. Bu sayede, insan hatalarının önüne geçilebilir ve depo personeli daha stratejik görevlere odaklanabilir.",
+
+        "wmsTitle11Name": "Sipariş Gecikmesi ve Müşteri Memnuniyeti",
+        "wmsTitle11One": "Günümüzde birçok işletme için, siparişlerin depodan geç çıkması ve müşteri memnuniyetsizliği gibi sorunlar, depo yönetim süreçlerinin etkin bir şekilde yapılandırılmamasından kaynaklanabilir. Bu durumu düzeltmek ve müşteri memnuniyetini artırmak adına modern bir depo yönetim sistemi olan WMS kullanımı oldukça önemlidir.Depo Personeli Bağımlılığı: Geleneksel depo yönetiminde, bir ürünün depoda nerede bulunduğunu bilmek genellikle belirli depo personelinin bilgisine dayanır. Bu durum, personel değişiklikleri veya personel hataları nedeniyle gecikmelere yol açabilir.Ürün Karışıklıkları ve Yanlış Siparişler: Benzer ürün kodlarına sahip olan ürünlerin karıştırılması veya yanlış ürünlerin gönderilmesi, müşteri memnuniyetsizliğine neden olabilir",
+
+        "wmsTitle12Name": "Depo Düzeni ve Veri Analitiği",
+        "wmsTitle12One": "Gerçek zamanlı veriler, manuel veri toplama yöntemlerinden daha güvenilir depo düzeni çözümleri sunarak hataları ortadan kaldırıyor ve süreci büyük ölçüde hızlandırıyor. Bu veriler ayrıca, zamanında sevkiyat, stok doğruluğu, dağıtım maliyetleri, sipariş döngü süresi ve diğer önemli metrikleri izlemek için data deposu yardımıyla görsel raporlar oluşturuyor.",
+
+        "wmsTitle13Name": "Kapsamlı İzleme",
+        "wmsTitle13One": "WMS Depo Yönetim Otomasyonunun Seri ve Lot Havuzu, geçmişe yönelik takip sağlayarak işletmenin stok tarihçesi ve yaşı gibi stok geçmişi hakkında detaylı bilgi toplanmasını sağlıyor. WMS ile aynı zamanda depo çalışanlarının performansları da izlenebilir hale geliyor."
+
     },
     "d2d": {
-        "name": "D2d",
+        "name": "D2D",
         "title": "D2D sipariş dağıtan müşterilerin anlık ve sat kaçta olduğunu gösteren bir proje geliştirmek için bir mobil uygulama veya web tabanlı bir sistem oluşturabilirsiniz. İşte bu proje için temel özellikler:",
         "title2": "Kullanıcı Yönetimi: Sipariş dağıtan müşterilerin ve yöneticilerin sisteme giriş yapabilmesi için bir kullanıcı yönetim sistemi oluşturun.",
         "title3": "Sipariş Yönetimi: Müşterilerin siparişlerini oluşturabilecekleri, düzenleyebilecekleri ve iptal edebilecekleri bir arayüz sağlayın. Siparişlerin durumu (hazırlanıyor, teslim ediliyor, teslim edildi vb.) gösterilmelidir.",

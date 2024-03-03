@@ -19,17 +19,17 @@ export const Banner = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <span className="tagline">
-                    {t("Home.bt")}
+                  <button onClick={() => console.log('connect')}>{t("Home.we")} <ArrowRightCircle size={25} /></button>
                   </span>
                   <h1>
                     {t("Home.tekno")}
                   </h1>
                   <p>
-                    {t("Home.mat")}
+                    {/* {t("Home.mat")} */}
                   </p>
-                  <Link to="/About">
+                  {/* <Link to="/About">
                     <button onClick={() => console.log('connect')}>{t("Home.we")} <ArrowRightCircle size={25} /></button>
-                  </Link>
+                  </Link> */}
                 </div>}
             </TrackVisibility>
           </Col>
