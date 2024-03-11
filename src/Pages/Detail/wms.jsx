@@ -5,6 +5,22 @@ import { Helmet } from "react-helmet";
 import Navv from "../../Components/Nav/Navv"; // Update import statement
 import { Footer } from "../../Components/Footer/Footer";
 
+import div1 from "../../assets/img/8.png";
+import div4 from "../../assets/img/Resim1.jpg";
+import div14 from "../../assets/img/Resim3.png";
+import div15 from "../../assets/img/clock.jpg";
+import div6 from "../../assets/img/Resim4.jpg";
+import div7 from "../../assets/img/Resim13.jpg";
+import div8 from "../../assets/img/Resim14.jpg";
+import div13 from "../../assets/img/1000.jpg";
+import div9 from "../../assets/img/Resim7.jpg";
+import div10 from "../../assets/img/resim15.jpg";
+import div11 from "../../assets/img/Resim9.png";
+import div12 from "../../assets/img/Resim10.png";
+import div17 from "../../assets/img/s1234.jpg";
+import div18 from "../../assets/img/data.jpg";
+import div19 from "../../assets/img/sifaris.jpg";
+
 import { useTranslation } from 'react-i18next';
 
 function Arm() {
@@ -60,13 +76,15 @@ function Arm() {
                         </div>
                         <div className='fotoCenter'>
 
-                            <div className="div1 foto"></div>
+                            {/* <div className="div1 foto"></div> */}
+                            <img className='fotoDiv' src={div1} alt="" />
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
-                            <div className="div4 foto"></div>
+                            {/* <div className="div4 foto"></div> */}
+                            <img className='fotoDiv' src={div4} alt="" />
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -100,13 +118,15 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-                            <div className="div15 foto"></div>
+                            {/* <div className="div15 foto"></div> */}
+                            <img className='fotoDiv' src={div15} alt="" />
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
-                            <div className="div14 foto"></div>
+                            {/* <div className="div14 foto"></div> */}
+                            <img className='fotoDiv' src={div14} alt="" />
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -135,14 +155,15 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-
-                            <div className="div6 foto"></div>
+                        <img className='fotoDiv' src={div6} alt="" />
+                            {/* <div className="div6 foto"></div> */}
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
-                            <div className="div7 foto"></div>
+                            {/* <div className="div7 foto"></div> */}
+                            <img className='fotoDiv' src={div7} alt="" />
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -183,14 +204,13 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-
-                            <div className="div8 foto"></div>
+                        <img className='fotoDiv' src={div8} alt="" />
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
-                            <div className="div9 foto"></div>
+                        <img className='fotoDiv' src={div9} alt="" />
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -216,14 +236,14 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-
-                            <div className="div10 foto"></div>
+                        <img className='fotoDiv' src={div10} alt="" />
+                            {/* <div className="div10 foto"></div> */}
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
-
-                            <div className="div11 foto"></div>
+                        <img className='fotoDiv' src={div11} alt="" />
+                            {/* <div className="div11 foto"></div> */}
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -249,14 +269,13 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-
-                            <div className="div12 foto"></div>
+                        <img className='fotoDiv' src={div12} alt="" />
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
-
-                            <div className="div17 foto"></div>
+                        <img className='fotoDiv' src={div17} alt="" />
+                            {/* <div className="div17 foto"></div> */}
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -282,14 +301,14 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-
-                            <div className="div18 foto"></div>
+                        <img className='fotoDiv' src={div18} alt="" />
+                            {/* <div className="div18 foto"></div> */}
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
-
-                            <div className="div13 foto"></div>
+                        <img className='fotoDiv' src={div13} alt="" />
+                            {/* <div className="div13 foto"></div> */}
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
@@ -315,8 +334,8 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-
-                            <div className="div19 foto"></div>
+                        <img className='fotoDiv' src={div19} alt="" />
+                            {/* <div className="div19 foto"></div> */}
                         </div>
                     </div>
 

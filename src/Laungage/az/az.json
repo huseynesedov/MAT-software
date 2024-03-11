@@ -4,7 +4,7 @@
     "service": "Xidmətlər",
     "we": "Haqqımızda",
     "project": "Layihələr",
-    "contact": "Elaqe saxla"
+    "contact": "Əlaqə"
   },
   "About": {
     "we": "Biz Kimik?",
@@ -15,14 +15,14 @@
     "mat4": "3. Texnologiyadan İstifadə Etme Gücü: İnovasiya və texnoloji inkişaf ilə güclü şəkildə inteqrasiya oluruq. Müştərilərimizə təklif etdiyimiz həllərdə, ən son texnologiyalardan istifadə edərək iş proseslərinizi yaxşılaşdırırıq və rəqabət üstünlüyü əldə etməyinizə kömək edirik. MAT yazılımı kimi, sizinlə birgə işləmək və iş dünyasında müvəffəqiyyətli bir dəyişiklik təmin etmək üçün sabırsızlanırıq. Sizi ailəmizə qoşulmağın təəccüblərini yaşamaq və sizə xüsusi həllər təqdim etməyin qürurunu yaşamaq üçün buradayıq."
   },
   "Home": {
-    "bt": " Innovativ IT Həlləri",
+    "bt": " Innovativ IT Həlləri",
     "tekno": "Texnologiya Gücü ilə Biznes Dünyasını Dəyişdiririk",
     "mat": "Texnologiya ilə birlikdə, iş dünyasında dəyişikliklərə yönələrək fərqlənirik. Biz, iş proseslərinizi daha səmərəli, effektiv və rəqabətə daha yüksək səviyyədə yüksəldərək, sizə dəstək olmaq üçün buradayıq.",
     "we": "Biz Kimik?"
   },
   "Projects": {
     "proje": "Layihələr",
-    "our": "Son zamanlarda Tamamlanan Layihələrimiz",
+    "our": "Son zamanlarda tamamlanan layihələrimiz",
     "we": "Biz Kimik?",
     "contact": "Bizimlə Əlaqə Saxlayın",
     "send": "Göndərmək"
@@ -64,72 +64,59 @@
   "wmsTitle": {
     "title0": "Anbar İdarəetmə Layihəsinin Əhəmiyyəti və Əsasları",
     "title00": "Məhsullar, qəbul və göndəriş mərhələsində anbar işçiləri tərəfindən sayılır və göndəriş sənətinə əsasən yoxlanır. Bu proseslərdə böyük boşluqlar və səhvlər edilir. Problemlər:",
-    "one": "1. Sərfəli işləm (Anbar Uyumazlığı, Əlaqəsiz İletişim, Əllə İşləmə, Məlumat Eksikliyi)",
+    "one": "1. Səmərələsizlik (stokların uyğunsuzluğu, çalışanların ünsiyyətin olmaması, manual proseslər, məlumatların çatışmazlığı)",
     "two": "2. Çox vaxt itkisi",
     "three": "3. Əlavə iş və işçilərə bağlı olmaq.",
     "four": "4. Stokun səhv hesablanması",
-    "five": "5. Göndərişləri keç çıxan sifarişlər",
-    "six": "6. Yanlış göndərilən məhsul səbəbindən müştəri narahatlığı",
-    "tit": "Sərfəli işləm nə deməkdir?",
-    "title000": "Inventar uyumsuzluğu: İnventar səviyyələrinin səhv hesablanması və ya yanlış inventar idarə olunması, inventar uyumsuzluğuna və eksikliklərin yaranmasına səbəb ola bilər. İnventar səviyyələrinin səhv hesablanması, işletmənin sahib olduğu məhsul və ya material miqdarını düzgün şəkildə müəyyənləşdirə bilmədiyi deməkdir.",
-    "one1": "1. Çoxlu stok: Stok səviyyələrinin şişirilməsi halında anbar sahəsinin sərfəli istifadəsi, anbarla bağlı maliyyələşmə məlumatları artır, məhsulların qocalma və dəyər itirmə riski kimi problemlər yarada bilər.",
-    "two2": "2. Aşağı stok: Stok səviyyələrinin eksik təxmin edilməsi, müştəri tələblərinin qarşılanmaması, satış itkiləri və müştəri narazılığı kimi problemlərə səbəb ola bilər.",
-    "wmsTitle1Name": "Mal Qəbul Etiketi",
-    "wmsTitle1One": "Mal qəbul etmə mərhələsi barkod oxuyaraq həyata keçirilir. El terminalları və barkod oxuma: ERP sistemi ilə inteqrasiya olunmuş anbar idarəetmə sistemi, anbar işçilərinin daşınma sənətlərini el terminallarına yükləməsinə imkan verir. Bu terminallar anbardakı məhsulları təyin edən barkodları asanlıqla oxumaq üçün istifadə olunur. Beləliklə, əllə səhvlərin qarşısını almaq və işin sürətini artırmaq mümkün olur.",
-    "wmsTitle1Two": "Sistem Monitoru və Anbar Menecerinə Anlık Məlumatlandırma: Anbar işçiləri tərəfindən həyata keçirilən barkod oxuma prosesləri sistem tərəfindən anında təsdiqlənir. ERP sistemi anbardakı anbar hərəkətlərini, göndərişləri və alımları qeyd edir. Bu məlumat anında anbar menecerinə çatdırılır.",
-    "wmsTitle2Name": "Sifariş toplama mərhələsində raf çəki və vaxt qazancı:",
+    "five": "5. Sifarişlərin anbardan gec çıxarılması",
+    "six": " 6. Yanlış göndərilən məhsul səbəbindən müştəri narazılığı",
+    "tit": "Səmərələsizlik nə deməkdir?",
+    "title000": "İnventar uyğunsuzluqları: İnventar səviyyələrinin səhv hesablanması və ya inventarın düzgün idarə edilməməsi inventar uyğunsuzluqlarına və çatışmazlıqlarına səbəb ola bilər. İnventar səviyyələrinin səhv hesablanması o deməkdir ki, müəssisə malik olduğu məhsulların və ya materialların miqdarını dəqiq müəyyən edə bilmir.",
+    "one1": "1. Həddindən artıq ehtiyat: Ehtiyat səviyyələri şişirdilirsə, anbar sahəsindən səmərəsiz istifadə, saxlama xərclərinin artması, məhsulların köhnəlməsi və dəyərini itirməsi riski kimi problemlər yarana bilər.",
+    "two2": "2. Az ehtiyat: Ehtiyat səviyyələrinin aşağı qiymətləndirilməsi müştəri tələblərinin yerinə yetirilməməsi, satış itkiləri və müştəri narazılığı kimi problemlərə səbəb ola bilər.",
+    "wmsTitle1Name": "Malların qəbulu prosesi",
+    "wmsTitle1One": "Malların qəbulu mərhələsi ştrix kodun skan edilməsi ilə həyata keçirilir.Əl terminalları və barkodun oxunması: ERP sistemi ilə inteqrasiya olunmuş anbar idarəetmə sistemi anbar işçilərinə göndərmə sənədlərini əl terminallarına yükləməyə imkan verir. Bu terminallar anbarda olan məhsulları asanlıqla müəyyən edən barkodları oxumaq üçün istifadə olunur. Beləliklə, əl ilə səhvlərin qarşısı alınır və emal sürəti artır.",
+    "wmsTitle1Two": "Sistem monitoru və anbar menecerinə anlıq bildiriş: Anbar işçiləri tərəfindən həyata keçirilən barkod oxuma əməliyyatları sistem tərəfindən anında yoxlanılır. ERP sistemi anbardaxili anbar hərəkətlərini, daşımaları və alışları qeyd edir. Bu məlumat dərhal anbar müdirinə ötürülür.",
+    "wmsTitle2Name": "Sifariş toplama prosesində vaxta qənaət:",
     "wmsTitle2OneHeader": "1. Məhsulların Sisteme Qeydiyyatdan Keçirilməsi:",
-    "wmsTitle2One": "Anbardakı məhsulların sisteme düzgün şəkildə qeydiyyatdan keçirilməsi halında, anbardakı hər məhsulun mövqeyi və xüsusiyyətləri anbar idarəetmə sistemi tərəfindən bilinir. Bu, sifariş toplama mərhələsində işləri daha asan və səhvlərə yol vermədən həll etməyə kömək edir. Bu, müştəriyə səhv məhsul göndərmə səhvini aradan qaldırır.",
+    "wmsTitle2One": "Əgər anbarda olan məhsullar sistemdə düzgün qeyd olunubsa, anbarda olan hər bir məhsulun yeri və xüsusiyyətləri anbar idarəetmə sistemi tərəfindən bilinir. Bu, sifariş toplama prosesi zamanı işləri asanlaşdırır və səhvsiz edir. Bu o deməkdir ki, yanlış məhsulun müştəriyə göndərilməsi xətası aradan qaldırılır.",
     "wmsTitle2TwoHeader": "2. Terminallara Sifariş Yükləmə:",
-    "wmsTitle2Two": "Anbar idarəetmə sistemi tərəfindən avtomatik olaraq çıxacaq məhsulların siyahısı müəyyənləşdikdən sonra sifarişlər anbar işçilərinin əllə terminallarına yüklənir. Bu terminallar işçiyə hansı raftan hansı məhsulu seçməli olduğunu göstərir.",
-    "wmsTitle2ThreeHeader": "3. Bir dəfədə anbardan toplama:",
-    "wmsTitle2Three": "Raf çəkisinə əsaslanan bu rəhbərlik, anbar işçilərinin sifarişin tamamını bir dəfədə toplamağa imkan verir. Bu, anbardakı lazımsız daireləri qarşısını alar və toplama prosesini sürətləndirir. Bu metod zaman qazancı təmin edir və müştəri razılığını və ümumi iş efektivliyini artıraraq səhvləri minimuma endirir.",
-    
+    "wmsTitle2Two": "Anbar idarəetmə sistemi tərəfindən avtomatik olaraq anbardan çıxacaq məhsulların siyahısı müəyyən edildikdən sonra sifarişlər anbar işçilərinin əl terminallarına yüklənir. Bu terminallar işçiyə hansı məhsulu hansı rəfdən seçmək lazım olduğunu göstərir.",
+    "wmsTitle2ThreeHeader": "3. Anbarda birdəfəlik inkassasiya:",
+    "wmsTitle2Three": "Rəf çəkisinə əsaslanan bu marşrut anbar işçilərinə bütün sifarişi bir anda seçməyə imkan verir. Bu, anbarda lazımsız dövriyyənin qarşısını alır (anbar işçisi qaiməni toplamaq üçün bütün anbarı gəzmədən bir sistem onu ardıcıl toplamağa imkan verir) və yığım prosesini sürətləndirir.Bu üsul vaxta qənaət edir və səhvləri minimuma endirir, müştəri məmnuniyyətini və ümumi iş səmərəliliyini artırır.",
     "wmsTitle3Name": "Sayım",
-    "wmsTitle3One": "Smart WMS anbar proqramı, bütün sayım proseslərinin maksimum effektivlikdə həyata keçirilməsi üçün bir sıra həll təklif edir. El terminalları ilə sayım, anlık stok təqibi etmə və sıra/lot əsasında müqayisə etmə kimi tətbiqlər bütün əməliyyatların idarə olunmasını və icrasını asanlaşdıraraq səhvləri minimuma endirir.",
-    
+    "wmsTitle3One": "Smart WMS anbar proqramı bütün sayma proseslərinin maksimum səmərəliliklə baş verməsini təmin etmək üçün bir sıra həllər təklif edir. Əl terminalları ilə hesablama, anında ehtiyat izləmə və seriya/lot əsasında müqayisə kimi tətbiqlər bütün əməliyyatlara nəzarəti və icranı asanlaşdırır və səhvləri minimuma endirir.",
     "wmsTitle4Name": "Stok idarəetməsi",
-    "wmsTitle4One": "İnventar izləmə proqramı istənilən yerdə, o cümlədən göndərmə və mağazadaxili inventar kimi təşkilatın inventarının real vaxt rejimində görünməsini təmin edir. Fond proqram həlləri; seriya/lot izləmə, palet izləmə, rəf izləmə, hasarlanmış, rədd edilmiş və bloklanmış malların izlənilməsi, məhsul və satıcı performansına dair qabaqcıl analitika və anlayışlardan istifadə edərək inventarların hesablanması və tələbin proqnozlaşdırılmasını dəstəkləyir.",
-    
+    "wmsTitle4One": "İnventar izləmə proqramı istənilən yerdə, o cümlədən tranzit və mağazalardakı mallar da daxil olmaqla, təşkilatın inventarının real vaxt rejimində görünməsini təmin edir. Fond proqram həlləri; O, seriya/lot izləmə, palet izləmə, rəf izləmə, zədələnmiş, rədd edilmiş və bloklanmış malların izlənilməsi, məhsul və satıcı performansına dair qabaqcıl analitika və anlayışlardan istifadə edərək ehtiyatların hesablanması və tələbin proqnozlaşdırılmasını dəstəkləyir.",
     "wmsTitle5Name": "Etiket dizayn modulu",
-  "wmsTitle5One": "Smart WMS Depo İdarəetmə Avtomatizasiyasının Etiket Dizayn Modulu ilə istədiyiniz qədər etiket dizayn edə bilərsiniz və məhsul və raf etiketlərini bu modul vasitəsilə idarə edə bilərsiniz. WMS Depo İdarəetmə Avtomatizasiyası EAN, Seri, GS1-128 və QR kod kimi bütün barkod növlərini dəstəkləyir.",
-  
-  "wmsTitle6Name": "Hesablama Modulu",
-  "wmsTitle6One": "Depo İdarəetmə Avtomatizasiyasının WMS - Hesablama Modulu vasitəsilə sınırsız sayda hesabat yaradıla bilər və istənilən saat və tarixdə alıcılara hesabatlar çatdırı bilər. Hesabatlar: Ən çox satılan məhsullar, anbar hərəkətləri, işçilərin çalışdığı saatlar kimi. Mövcud hesabatlar.",
-  
-  "wmsTitle7Name": "İnsan gücü idarəetməsi",
-  "wmsTitle7One": "WMS; Depo əməkdaşlarını, əməkhaqqı xərclərini, cavab vaxtlarını, effektivlik boşluqlarını, planlanan təlimi və daha çoxunu daxil edir. Real vaxtda görünürlük təmin edərək işləmələri işgücü idarəetməsi sahəsində dəstəkləyir. Beləliklə, işləmələr uyğun əməkdaş təyin edərək performans monitorinqi və idarəetmə fəaliyyətlərini daha effektiv bir şəkildə həyata keçirə bilərlər.",
-
-  "wmsTitle8Name": "İstehsal",
-  "wmsTitle8One": "Bir WMS, təxminlərdən sifarişə, anbardan tədarükçi tədarükünə, istehsal planlamasından icrasına qədər bir-biri ilə əlaqəli və örtüşən bir çox əməliyyatın düzgün şəkildə icrasını təmin edir. Bu kontekstda, göndəriş, mal qəbulu və keyfiyyət nəzarəti həlləri kimi tüm istehsal əməliyyatlarını daha effektiv hələ gətirir. Üstünlük etiketi təyin etmə, istehsal işi sifarişinə dəstək, iş sifarişindəki xərc və itkil miqdarlarının dəyişdirilməsi, avtomatik xərc/atsıq fisi yaratmaq və istehsal miqdarlarına bağlanmağa aid modul ilə bütün istehsal proseslərinin uçdan uca idarəetməsini asanlaşdıra bilərsiniz.",
-  
-  "wmsTitle9Name": "Sifarişin qaytarılması",
-  "wmsTitle9One": "WMS - Depo idarəetmə sistemləri sayəsində müxtəlif ölçülü bütün işletmələr qaytarılma proseslərini maksimum effektivlik və effektivliklə idarə edə bilərlər. Qaytarılma qeydlərini və sağlam/xərçəngli qaytarmaları idarə etməklə depo proseslərini nəzarətə ala bilərsiniz.",
-
-  "wmsTitle10Name": "Zaman itkisi, Çox işçi, Stok xarabalanmaları",
-  "wmsTitle10One": "Bir işletmə, əl ilə həyata keçirilən mal qəbul proseslərində bənzər məhsulları ayırt etməkdə çətinlik çəkir. Bu vəziyyət, depo əməkdaşlarının eyni məhsulları təkrar təhlil etməsinə səbəb olur. Məsələn, eyni parti nömrələrinə sahib olmayan bənzər məhsullar, əllə müstəqil proseslərdə qarışıklığa və səhvlərə gətirib çıxarır. Bu vəziyyət, məhsulları avtomatik olaraq təyin edib saymağa imkan verən bir depo idarəetmə sistemində ehtiyacın ortaya çıxmasına səbəb olur. Beləliklə, insan səhvlərinin qarşısını ala bilər və depo əməkdaşları daha strateji tapşırıqlara fokuslanabilir.",
-  
-  "wmsTitle11Name": "Sifariş gecikməsi və müştəri məmnuniyyəti",
-  "wmsTitle11One": "Günümüzdə bir çox işlətmə üçün, sifarişlərin depodan gec çıxması və müştəri məmnuniyyətsizliyi kimi problemlər, depo idarəetmə proseslərinin effektiv bir şəkildə struktur olunmamasından qaynağlanabilir. Bu durumu düzəltmək və müştəri məmnuniyyətini artırmaq üçün müasir bir depo idarəetmə sistemi olan WMS istifadəsi çox vacibdir. Depo Əməkdaşı Asılılığı: Gelenəksel depo idarəetməsində, bir məhsulun depoda harada olduğunu bilmək, əsasən müəyyən depo əməkdaşının məlumatına əsaslanır. Bu vəziyyət, əməkdaş dəyişiklikləri və ya əməkdaş səhvləri səbəbiylə gecikmələrə səbəb ola bilər. Məhsul Qarışıklığı və Yanlış Sifarişlər: Bənzər məhsul kodlarına sahib olan məhsulların qarışdırılması və ya yanlış məhsulların göndərilməsi, müştəri məmnuniyyətsizliyinə səbəb ola bilər",
-
-  "wmsTitle12Name": "Depo Düzeni və veri analitiki",
-  "wmsTitle12One": "Gərçək zamanlı məlumatlar, əllə məlumat toplama üsullarından daha güvənilir depo düzəni həlləri təqdim edərək səhvləri aradan qaldırır və prosesi böyük miqdarda sürətləndirir. Bu məlumatlar eyni zamanda, vaxtında göndəriş, anbar doğruluğu, distribusiya xərcləri, sifariş dövrü müddəti və digər əsas metrikleri izləmək üçün veri depo yardımı ilə görsel hesabatlar hazırlayır.",
-
-  "wmsTitle13Name": "Ətraflı İzləmə",
-  "wmsTitle13One": "WMS Depo İdarəetmə Avtomatizasiyasının Seriya və Lota-Anbarı, işləmənin anbar tarixi və yaşı kimi ətraflı məlumat toplanmasını təmin edərək müəssisənin anbar tarixi haqqında detallı məlumat verir. WMS ilə eyni zamanda depo əməkdaşlarının performansları da izlənə bilər hala gəlir."
-
-},
-"d2d": {
+    "wmsTitle5One": "Smart WMS Anbar İdarəetmə Avtomatlaşdırmasının Etiket Dizayn Modulu ilə siz istədiyiniz qədər etiket dizayn edə və bu modul vasitəsilə məhsul və rəf etiketlərini idarə edə bilərsiniz. Smart WMS: EAN, Serial, GS1-128 və QR kodu kimi bütün barkod növlərini dəstəkləyir.",
+    "wmsTitle6Name": "Hesablama Modulu",
+    "wmsTitle6One": "WMS - Anbar İdarəetməsinin Avtomatlaşdırılmasının Hesabat Modulu sayəsində qeyri-məhdud sayda hesabatlar yaradıla və hesabatlar alıcılara istənilən vaxt və tarixdə çatdırıla bilər. Hesabatlar: Ən çox satılan məhsullar, stok hərəkəti, işçilərin neçə saat işlədiyi və s. hesabat mövcuddur.",
+    "wmsTitle7Name": "İnsan gücü idarəetməsi",
+    "wmsTitle7One": "Smart WMS; Buraya anbar işçiləri, əmək xərcləri, cavab müddəti, məhsuldarlıq boşluqları, cədvəl üzrə təlim və s. daxildir. O, real vaxtda görünmə təmin etməklə işçi qüvvəsinin idarə edilməsində biznesi dəstəkləyir. Beləliklə, müəssisələr müvafiq kadr vəzifə və məsuliyyətlərini təyin etməklə, performans monitorinqi və idarəetmə fəaliyyətlərini daha effektiv həyata keçirə bilərlər.",
+    "wmsTitle8Name": "İstehsalat",
+    "wmsTitle8One": "Smart WMS, proqnozlaşdırmadan sifarişə, anbardan tədarükçü axtarışına, istehsalın planlaşdırılmasından icraya qədər bir çox qarşılıqlı əlaqəli və üst-üstə düşən əməliyyatların düzgün icrasını təmin edir. Bu kontekstdə, göndərmə, malların qəbulu və keyfiyyətə nəzarət həlləri inkişaf etdirərək bütün istehsal əməliyyatlarını daha səmərəli edir. İstehsal ünvanının müəyyən edilməsi, istehsal iş sifarişi dəstəyi, iş sifarişlərində istehlak və tullantıların miqdarının dəyişdirilməsi, avtomatik istehlak/tullantı qəbzlərinin yaradılması kimi xüsusiyyətləri özündə birləşdirən modul sayəsində bütün istehsal proseslərinizin başdan-başa idarə olunmasını asanlaşdıra bilərsiniz. istehsal kəmiyyətləri ilə əlaqələndirilir.",
+    "wmsTitle9Name": "Sifarişin qaytarılması",
+    "wmsTitle9One": "WMS - Anbar idarəetmə sistemləri sayəsində müxtəlif ölçülü bütün müəssisələr öz qaytarma proseslərini maksimum səmərəlilik və effektivliklə idarə edə bilirlər. Qayıdış daxilolmaları və sağlam/zədəli gəlirləri idarə etməklə anbar proseslərinə nəzarət edə bilərsiniz.",
+    "wmsTitle10Name": "Zaman itkisi, Daha çox işçi qüvvə, Stok pozuntusu",
+    "wmsTitle10One": "Bir işlətmə əl ilə malların qəbulu proseslərində oxşar məhsulları ayırd etməkdə çətinlik çəkir. Bu, anbar işçilərinin eyni məhsulları təkrar-təkrar saymasına səbəb olur. Məsələn, müxtəlif partiya nömrələrinə malik olmayan oxşar məhsullar əl ilə aparılan proseslərdə mürəkkəbliyə və xətalara səbəb olur.Bu, eyni işi daha qısa müddətdə və daha az işçi heyəti ilə görə bilən anbar idarəetmə sisteminə ehtiyacı ortaya qoyur. Sistem barkod etiketləri kimi texnologiyalardan istifadə edərək məhsulları avtomatik olaraq müəyyən edə və saya bilər. Bu yolla insan səhvlərinin qarşısı alına bilər və anbar işçiləri diqqətini daha strateji vəzifələrə yönəldə bilər.",
+    "wmsTitle11Name": "Sifariş gecikməsi və müştəri məmnuniyyəti",
+    "wmsTitle11One": "Bu gün bir çox müəssisələr üçün anbar idarəçiliyi proseslərinin effektiv şəkildə qurulmaması nəticəsində sifarişlərin anbardan gec çıxması və müştərilərin narazılığı kimi problemlər yarana bilər. Bu vəziyyəti düzəltmək və müştəri məmnuniyyətini artırmaq üçün müasir anbar idarəetmə sistemi olan WMS-dən istifadə çox vacibdir.Anbar personalından asılılıq: Ənənəvi anbar idarəçiliyində məhsulun anbarda harada yerləşdiyini bilmək, ümumiyyətlə, anbarda hansı məhsulun harda yerləşdiyini bilmək anbar işçiləri tərəfindən bilinir. Bu, kadr dəyişikliyi və ya kadr səhvləri səbəbindən gecikmələrə səbəb ola bilər.Məhsul Qarışıqlığı və Yanlış Sifarişlər: Məhsulların oxşar məhsul kodları ilə qarışdırılması və ya yanlış məhsulların göndərilməsi müştərilərin narazılığına səbəb ola bilər.",
+    "wmsTitle12Name": "Anbarın təşkili və məlumat analitikası",
+    "wmsTitle12One": "Real vaxt rejimində məlumatlar səhvləri aradan qaldırır və prosesi xeyli sürətləndirir, məlumatların əl ilə toplanması üsullarından daha etibarlı olan anbar yerləşdirmə həllərini təmin edir. Bu məlumatlar həmçinin vaxtında göndərilməni, anbarın dəqiqliyini, paylama xərclərini, sifariş dövriyyəsini və digər vacib göstəriciləri izləmək üçün məlumat anbarının köməyi ilə vizual hesabatlar yaradır.",
+    "wmsTitle13Name": "Ətraflı İzləmə",
+    "wmsTitle13One": "WMS Warehouse Management Automation seriyası və Lot Pool tarixi izlənilməsi və səhm tarixi və yaşı kimi şirkətin səhm tarixi haqqında ətraflı məlumatların toplanmasına imkan verir. WMS ilə anbar işçilərinin işinə də nəzarət etmək olar."
+  },
+  "d2d": {
     "name": "D2D",
-    "des":"İstifadəçilərin mənzilləri arasında yol xəritələri göstərən və rota təyin edən bir naviqasiya proqramıdır."
-},
-"D2DTitle": {
-  "D2DTitle1Name": "D2D Proyeksinin Əhəmiyyəti və Əsaslıq",
-  "D2DTitle1One": "Dinamik tıxdan istifadə edərək nəqliyyat və daşımada, bu gün loqistika və nəqliyyat sektorlarında vacib bir rol oynayır. Belə bir optimizasiya, trafik məlumatlarını canlı şəkildə təhlil edərək avtomobillərin ən sürətli, ən qısa və ən az maliyyətli marşrutlarını təyin edir və belirləyir, buna görə də effektivliyi artırır. Paneldəki təhlillər, bu məlumatların istifadəçi dostu bir interfeysdə vizualşdırılmasına imkan verir, beləliklə operativ qərarlar verilə bilər. Düzgün çatışmazlıq dərəcəsi və məqsəd izləmə, işlərin müştəri qənaətbəxşliyini və operativ effektivliyini artırmaq üçün əhəmiyyətlidir. QR kod ilə səhviksiz çatdırılma, paketlərin düzgün ünvanlara və düzgün şəxslərə çatdırılmasını təmin edir, bu isə işlərin müştəri qənaətbəxşşliyini artırır.",
-  
-  "D2DTitle2Name": "Anlık İzləmə",
-  "D2DTitle2OneHeader": "Araç məlumat izləməsi, avtomobillərin mövqeyini, yanacaq sərfiyyatını, sürətini və digər əhəmiyyətli məlumatları izləməyə imkan verir. Qəza məlumat izləməsi, təhlükəsizlik tədbirlərini artırmaq və ehtimal olunan riskləri azaltmaq üçün əhəmiyyətlidir. Bakım izləməsi, avtomobillərin tənzimli bakımını təmin edərək işlərin maliyyələrini optimize edir. KM izləməsi isə avtomobillərin kilometrini izləyərək bakım və maliyyə planlamasına kömək edir. Xəritə üzərindən nəqliyyat izləməsi, əməliyyat personalının avtomobillərin mövqeyini canlı şəkildə izləməsinə imkan verir. Bu, marşrutları optimize etmək, trafik problemlərini önləmək və müştəriyə daha dəqiq çatdırılma vaxtları təmin etmək üçün əhəmiyyətlidir. Bu xüsusiyyətlərin birləşdirilməsi, loqistika və nəqliyyat işlərinin effektivliyini artırarkən müştəri qənaətbəxşşliyini maksimallaşdırır."
-},
+    "des": "İstifadəçilərin mənzilləri arasında yol xəritələri göstərən və rota təyin edən bir naviqasiya proqramıdır."
+  },
+  "D2DTitle": {
+    "D2DTitle1Name": "D2D Proyeksinin Əhəmiyyəti və Əsaslıq",
+    "D2DTitle1One": "Dinamik tıxdan istifadə edərək nəqliyyat və daşımada, bu gün loqistika və nəqliyyat sektorlarında vacib bir rol oynayır. Belə bir optimizasiya, trafik məlumatlarını canlı şəkildə təhlil edərək avtomobillərin ən sürətli, ən qısa və ən az maliyyətli marşrutlarını təyin edir və belirləyir, buna görə də effektivliyi artırır. Paneldəki təhlillər, bu məlumatların istifadəçi dostu bir interfeysdə vizualşdırılmasına imkan verir, beləliklə operativ qərarlar verilə bilər. Düzgün çatışmazlıq dərəcəsi və məqsəd izləmə, işlərin müştəri qənaətbəxşliyini və operativ effektivliyini artırmaq üçün əhəmiyyətlidir. QR kod ilə səhviksiz çatdırılma, paketlərin düzgün ünvanlara və düzgün şəxslərə çatdırılmasını təmin edir, bu isə işlərin müştəri qənaətbəxşşliyini artırır.",
+    "D2DTitle2Name": "Anlık İzləmə",
+    "D2DTitle2OneHeader": "Araç məlumat izləməsi, avtomobillərin mövqeyini, yanacaq sərfiyyatını, sürətini və digər əhəmiyyətli məlumatları izləməyə imkan verir. Qəza məlumat izləməsi, təhlükəsizlik tədbirlərini artırmaq və ehtimal olunan riskləri azaltmaq üçün əhəmiyyətlidir. Bakım izləməsi, avtomobillərin tənzimli bakımını təmin edərək işlərin maliyyələrini optimize edir. KM izləməsi isə avtomobillərin kilometrini izləyərək bakım və maliyyə planlamasına kömək edir. Xəritə üzərindən nəqliyyat izləməsi, əməliyyat personalının avtomobillərin mövqeyini canlı şəkildə izləməsinə imkan verir. Bu, marşrutları optimize etmək, trafik problemlərini önləmək və müştəriyə daha dəqiq çatdırılma vaxtları təmin etmək üçün əhəmiyyətlidir. Bu xüsusiyyətlərin birləşdirilməsi, loqistika və nəqliyyat işlərinin effektivliyini artırarkən müştəri qənaətbəxşşliyini maksimallaşdırır."
+  },
   "footer": {
     "reser": "Təhlükəsizlik Mülkiyyəti 2022. Bütün Hüquqlar Qorunur"
   }

@@ -22,16 +22,6 @@
     align-items: center;
 }
 
-.div1,
-.div2,
-.div3 {
-    background-position: 50%;
-    background-size: cover;
-}
-
-.div1 {
-    background-image: url("../../assets/img/8.png");
-}
 
 .div2 {
     background-image: url("../../assets/img/project-img2.png");
@@ -49,45 +39,15 @@
     background-image: url("../../assets/img/Resim1.jpg");
 }
 
-.div6 {
-    background-image: url("../../assets/img/Resim4.jpg");
-}
 
-.div7 {
-    background-image: url("../../assets/img/Resim13.jpg");
-}
 
-.div8 {
-    background-image: url("../../assets/img/Resim14.jpg");
-}
-
-.div9 {
-    background-image: url("../../assets/img/Resim7.jpg");
-}
-
-.div10 {
-    background-image: url("../../assets/img/resim15.jpg");
-}
-
-.div11 {
-    background-image: url("../../assets/img/Resim9.png");
-}
 
 .div12 {
     background-image: url("../../assets/img/Resim10.png");
 }
 
-.div13 {
-    background-image: url("../../assets/img/istehsal.PNG");
-}
 
-.div14 {
-    background-image: url("../../assets/img/Resim3.png");
-}
 
-.div15 {
-    background-image: url("../../assets/img/clock.jpg");
-}
 
 .div16 {
     background-image: url("../../assets/img/s1234.jpg");
@@ -104,20 +64,11 @@
 .div19 {
     background-image: url("../../assets/img/sifaris.jpg");
 }
-.div20 {
-    background-image: url("../../assets/img/b2bImg2.jpg");
-}
-.div21 {
-    background-image: url("../../assets/img/b2bImg3.jpg");
-}
-.div22 {
-    background-image: url("../../assets/img/b2bImg4.jpg");
-}
-.div23 {
-    background-image: url("../../assets/img/6.png");
-}
-.div24 {
-    background-image: url("../../assets/img/24.jpg");
+/* <img className='fotoDiv' src={div22} alt="" /> */
+.fotoDiv{
+    width: 75%;
+    height: 100%;
+    border-radius: 20px;
 }
 .xet {
     width: 11%;
@@ -153,7 +104,7 @@
 
 .fotoCenter {
     width: 33%;
-    height: 400px;
+    height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -223,13 +174,17 @@
 
 
 
-.foto-content {
-    margin-top: 20px;
+.foto-content,.foto-contents {
+    margin-top: 40px;
     width: 90%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid white;
+}
+
+.tit {
+    margin-top: 20px;
+    color: black;
 }
 
 .title-center {
@@ -249,10 +204,7 @@
     width: 50%;
 }
 
-.tit {
-    margin-top: 50px;
-    color: black;
-}
+
 
 .tit h2 {
     font-size: 18px;
@@ -260,6 +212,7 @@
 }
 
 .red {
+    margin-top: 20px;
     color: #dbbd52;
 }
 
@@ -267,12 +220,7 @@
     font-size: 20px;
 }
 
-.foto-contents {
-    width: 90%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
+
 
 .title {
     width: 50%;

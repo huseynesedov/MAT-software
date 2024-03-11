@@ -4,6 +4,8 @@ import { Helmet } from "react-helmet";
 
 import Navv from "../../Components/Nav/Navv"; // Update import statement
 import { Footer } from "../../Components/Footer/Footer";
+import div23 from "../../assets/img/6.png"
+import div24 from "../../assets/img/24.jpg"
 
 import { useTranslation } from 'react-i18next';
 
@@ -41,12 +43,14 @@ function Arm() {
                             </div>
                         </div>
                         <div className='fotoCenter'>
-                            <div className="div23 foto"></div>
+                            {/* <div className="div23 foto"></div> */}
+                            <img className='fotoDiv' src={div23} alt="" />
                         </div>
                     </div>
                     <div className="foto-contents">
                         <div className='fotoCenter'>
-                            <div className="div24 foto"></div>
+                            {/* <div className="div24 foto"></div> */}
+                            <img className='fotoDiv' src={div24} alt="" />
                         </div>
                         <div className='title-centers'>
                             <h2 className="red">
