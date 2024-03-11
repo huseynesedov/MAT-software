@@ -45,17 +45,21 @@
     },
     "B2b": {
         "name": "B2B",
-        "title": "B2B, Business to Business ifadesinin kısaltmasıdır ve işletmeler arası ticareti ifade eder. Bu tür ticarette, bir işletme diğer bir işletmeye mal veya hizmet satmaktadır. B2B ticareti genellikle toptan ticaret, endüstriyel mal ve hizmetler, tedarik zinciri yönetimi gibi alanlarda gerçekleşir. B2B ilişkileri, iki işletme arasındaki uzun vadeli işbirliğine dayanabilir ve büyük ölçekli siparişler ve düzenli mal akışını içerebilir. B2B projemizin diğerlerinden farkı, mobil uygulamanızın sağladığı anlık bilgi akışı ve etkileşimdir. Müşterilerinize stoklar hakkında, yeni ürünler hakkında, indirimler ve diğer önemli bilgiler hakkında anlık bildirimler sağlayarak, onların işlerini yönetmelerini ve karar almalarını kolaylaştırırsınız. Bu, müşterilerinizin stoklarını daha etkili bir şekilde yönetmelerine ve gereksinimlerine daha hızlı yanıt vermelerine yardımcı olabilir.Anlık bildirimler, müşterilerinizin zamanında ve doğru bilgiye erişimini sağlar, bu da onların işlerini daha verimli bir şekilde yönetmelerini sağlar. Ayrıca, müşterilerinizin işletmelerine daha yakın bir ilişki kurmalarını sağlayarak, onların memnuniyetini artırabilir ve sadakatlerini güçlendirebilirsiniz.Mobil uygulama aracılığıyla sağlanan bu hizmet, müşterilerinizin işlerini daha akıllıca yönetmelerine ve rekabet avantajı elde etmelerine yardımcı olabilir. Bu da bizim B2B projesini diğerlerinden ayıran bir özelliktir ve müşterilerinizin sizinle olan ilişkilerini güçlendirebilir."
+        "des": "Biznesdən Biznesə"
+        },
+    "B2BTitle": {
+        "B2BTitle1Name": "B2B projesinin önemi ve gerekçesi",
+        "B2BTitle1One": "Müşterilerin taleplerini yazılımcılara ve teknik ekibe doğru bir biçimde aktaramayan yazılım firmaları  sadece talep edileni yapar, sektörel tecrübeleri olmadığı için istenen yazılımların içine tecrübelerini ekleyemez. Bu nedenle bir çok b2b projesi maalesef uzun vakit ve maliyet kaybı neticesinde başarısızlığa mahkum olmuştur.  B2B yapısı firmanın kendisidir. Bir B2B yapısı oluşturmak için bilinmesi gerekenler: Alınan Siparişler, Verilen Siparişler, Stok Rezervasyonu, Ürün Üretimi,  Üretim Reçeteleri, Stoklar, Depolar, Birden fazla depolardaki stokların yönetimleri, Stok Seviyeleri, Negatif Stok Uyarıları, Depolar arası sevkler, Depo Raf takip sistemleri, İrsaliye, Fatura, Cari Hesap,  Mutabakatlar. Sizin adınıza 7/24  365 gün durmadan çalışıyor dünyanın her yerine pazarlama yapabiliyorsunuz.  b2b yapısına yüklediğiniz ürünler ve fiyatları ile verdiğiniz bilgiler dahilinde pazarlama yapar.",
+        "B2BTitle2Name": "Entegrasyon sağlama",
+        "B2BTitle2OneHeader": "MAT software B2B kendi web servisi sayesinde ister kendi veritabanını kullanabilir, istersen piyasanın en çok bilinen ERP'lerinden Logo, Nebim Winner, Nebim V3, Micro v14, 1C ,Micro V15, Eta Sql gibi ürünlere entegre olarak  veritabanlarından veri okuyabilir, veri yazabilir durumdadır.",
+        "B2BTitle3Name": "Anlık bildirimler",
+        "B2BTitle3OneHeader": "MAT Softwarenin diğer firmalardan farklı olarak yaptığı B2B  geliştirmesi bu şekildedir:",
+        "B2BTitle3One": "1) Admin panele isteğiniz bilgisayar üzerinden bağlana bilmeniz çünkü admin sayfası web sitesi şeklinde sunmaktadır.",
+        "B2BTitle3Two": "2) Kullanıcılar Sipariş vermek için daim bilgisayar üzerinden stok kontrolü yapmayacak çünkü MAT Software-nin yeni geliştirdiği B2B projesine kullanıcılar IOS ve Andorid tabanlı telefonlarına uygulama indirecek ve tüm siparişleri uygulamadan vere bileceklerdir.",
+        "B2BTitle3Three": "3) Kullanıcılar için firmada olan tüm stok değişiklikleri, yeni ürünler, ürün iskontoları hakkında anlık olarak bildirim alacaklar."
     },
     "wms": {
-        "name": "Depo Yönetim Sistemi",
-        "title": "Mal Kabul: Bu modül, depoya gelen yeni malzemelerin kabul edilmesini ve kaydedilmesini sağlar. Malzeme kabul işlemleri genellikle teslimat alımını içerir ve gelen ürünlerin kontrol edilmesini, etiketlenmesini ve depo envanterine eklenmesini içerir.",
-        "title2": "Sevkiyat: Bu modül, müşterilere gönderilen malzemelerin hazırlanmasını ve sevkiyatını yönetir. Tüm işlemler genellikle el terminalleri veya mobil cihazlar aracılığıyla yapılır. Bu, siparişleri toplama, paketleme, sevkiyat hazırlığı ve taşıma işlemlerini içerir.",
-        "title3": "Sayım: Bu modül, depoda bulunan malzemelerin periyodik olarak sayılmasını ve doğrulanmasını sağlar. Bu, envanterin doğruluğunu sağlamak ve stok tutarsızlıklarını tespit etmek için önemlidir. Ayrıca, depo faaliyetlerini durdurmadan hızlı sayım işlemleri yapmayı sağlayan bir özelliğe sahiptir.",
-        "title4": "Hareket: Bu modül, anbarlar ve depolar arasında malzeme transferini yönetir. Örneğin, bir depodaki fazla stokun başka bir depoya aktarılması veya bir malzemenin bir bölümden diğerine taşınması gibi işlemleri içerir.",
-        "title5": "Üretim: Bu modül, üretim işlemlerini yönetir ve takip eder. Üretim planlaması, iş emirlerinin oluşturulması, hammaddelerin ve işlenmiş ürünlerin takibi gibi işlemleri içerir.",
-        "title6": "Ürün Bulma: Bu modül, depoda bulunan belirli bir ürünü bulmayı kolaylaştırır. Genellikle envanterdeki ürünlerin yerini belirlemek için kullanılır ve personelin zamanını ve çabasını azaltır.",
-        "title7": "Raporlama: Bu modül, çeşitli operasyonel metriklerle ilgili raporlar sağlar. En çok satılan ürünler, çalışanların çalışma saatleri, envanter seviyeleri, siparişlerin durumu gibi bilgileri içerebilir. Bu raporlar işletme yöneticilerine karar verme süreçlerinde yardımcı olur ve işletmenin performansını değerlendirmek için kullanılır."
+        "name": "Depo Yönetim Sistemi"
     },
     "wmsTitle": {
         "title0": "Depo Yönetimi Projesinin Önemi ve Gerekçesi",
@@ -70,11 +74,9 @@
         "title000": "Envanter tutarsızlıkları: Envanter seviyelerinin yanlış hesaplanması veya yanlış envanter yönetimi, envanter tutarsızlıklarına ve eksikliklere yol açabilir. Envanter düzeylerinin yanlış hesaplanması, işletmenin sahip olduğu ürün veya malzeme miktarını doğru bir şekilde belirleyemediği anlamına gelir.",
         "one1": "1. Aşırı stok: Stok seviyelerinin şişirilmesi durumunda depo alanının verimsiz kullanılması, depolama maliyetlerinin artması, ürünlerin eskime ve değer kaybetme riski gibi sorunlar ortaya çıkabilir.",
         "two2": "2. Düşük stok: Stok seviyelerinin eksik tahmin edilmesi, müşteri isteklerinin karşılanamaması, satış kayıpları ve müşteri memnuniyetsizliği gibi sorunlara yol açabilir.",
-        
         "wmsTitle1Name": "Mal Teslim Alma Süreci",
         "wmsTitle1One": "Mal teslim alma aşaması barkod okutularak gerçekleştirilir.El terminalleri ve barkod okuma:ERP sistemiyle entegre bir depo yönetim sistemi, depo çalışanlarının nakliye belgelerini el terminallerine yüklemesine olanak tanır. Bu terminaller depodaki ürünleri kolayca tanımlayan barkodları okumak için kullanılır. Böylece manuel hataların önüne geçilir ve işlem hızı arttırılır.",
         "wmsTitle1Two": "Sistem Monitörü ve Depo Müdürüne Anlık Bilgilendirme: Depo çalışanlarının yaptığı barkod okuma işlemleri sistem tarafından anında doğrulanır. ERP sistemi depo içindeki depo hareketlerini, sevkiyatları ve satın almaları kaydeder. Bu bilgi anında depo yöneticisine iletilir.",
-        
         "wmsTitle2Name": "Sipariş toplama sürecinde raf ağırlığından ve zamandan tasarruf:",
         "wmsTitle2OneHeader": "1. Ürünlerin Sisteme Kaydedilmesi:",
         "wmsTitle2One": "Depodaki ürünlerin sisteme doğru şekilde kaydedilmesi durumunda, depodaki her ürünün konumu ve özellikleri depo yönetim sistemi tarafından bilinir. Bu, sipariş toplama sürecinde işleri daha kolay ve hatasız hale getirir. Bu da müşteriye yanlış ürün gönderme hatasının ortadan kalkması anlamına geliyor.",
@@ -82,51 +84,38 @@
         "wmsTitle2Two": "Depo yönetim sistemi tarafından depodan otomatik olarak çıkacak ürünlerin listesi belirlendikten sonra siparişler depo çalışanlarının manuel terminallerine yüklenir. Bu terminaller çalışana hangi raftan hangi ürünü seçeceğini gösterir.",
         "wmsTitle2ThreeHeader": "3. Tek seferde depodan toplama:",
         "wmsTitle2Three": "Raf ağırlığına dayalı bu yönlendirme, depo çalışanlarının siparişin tamamını tek seferde toplamasına olanak tanır. Bu, depodaki gereksiz ciroları önler ve toplama sürecini hızlandırır.Bu yöntem zamandan tasarruf sağlar ve hataları en aza indirerek müşteri memnuniyetini ve genel iş verimliliğini artırır. ",
-        
         "wmsTitle3Name": "Sayım",
         "wmsTitle3One": "Smart WMS depo yazılımı, tüm sayım süreçlerinin maksimum verimlilikle gerçekleşmesi için bir dizi çözüm sunuyor. El terminalleriyle sayım, anlık stok takip etme ve seri/lot bazında karşılaştırma yapma gibi uygulamalar tüm operasyonların kontrolünü ve yürütülmesini kolaylaştırarak hataları minimuma indiriyor.",
-        
         "wmsTitle4Name": "Stok yönetimi",
         "wmsTitle4One": "Stok takip programı, nakliye ve mağazalardaki mallar dahil olmak üzere herhangi bir konumdaki bir kuruluşun stoklarına gerçek zamanlı görünürlük sağlıyor. Stok programı çözümleri; seri/lot takibi, palet takibi, raf takibi, hasarlı, red ve bloke edilmiş malların takibi, ürün ve satıcı performansına ilişkin gelişmiş analitik ve öngörüleri kullanarak stok sayımını ve talep tahminini destekliyor.",
-        
         "wmsTitle5Name": "Etiket tasarım modülü",
         "wmsTitle5One": "Smart WMS Depo Yönetimi Otomasyonunun Etiket Tasarım Modülü ile dilediğiniz kadar etiket tasarlayabilir, ürün ve raf etiketlerini bu modül üzerinden yönetebilirsiniz. WMS Depo Yönetimi Otomasyonu EAN, Seri, GS1-128 ve QR kod gibi tüm barkod türlerini destekler.",
-        
         "wmsTitle6Name": "Raporlama Modülü",
         "wmsTitle6One": "Depo Yönetimi Otomasyonunun WMS - Raporlama Modülü sayesinde sınırsız sayıda rapor oluşturularak istenilen saat ve tarihte alıcılara raporlar ulaştırılabilmektedir. Raporlar: En çok satan ürünler, stok hareketleri, çalışanların kaç saat çalıştığı vb. Rapor mevcut.",
-        
         "wmsTitle7Name": "İnsan gücü yönetimi",
         "wmsTitle7One": "WMS; Depo personelini, işçilik maliyetlerini, yanıt sürelerini, üretkenlik boşluklarını, planlanacak eğitimi ve daha fazlasını içerir. Gerçek zamanlı görünürlük sağlayarak işletmeleri işgücü yönetimi konusunda destekler. Böylece işletmeler uygun personel görev ve sorumluluklarını atayarak performans izleme ve yönetim faaliyetlerini daha etkin bir şekilde gerçekleştirebilmektedir.",
-   
         "wmsTitle8Name": "Üretim",
         "wmsTitle8One": "Bir WMS, tahminden siparişe, depolamadan tedarikçi tedarikine, üretim planlamadan yürütmeye kadar birbiriyle ilişkili ve örtüşen birçok operasyonun doğru şekilde yürütülmesini sağlar. Bu bağlamda sevkiyat, mal kabul ve kalite kontrol çözümleri geliştirerek tüm üretim operasyonlarını daha verimli hale getirir. Üretim adresi tanımlama, üretim iş emri desteği, iş emirlerindeki sarfiyat ve fire miktarlarının değiştirilmesi, otomatik sarf/atık fişi oluşturulması ve üretim miktarlarına bağlanma gibi özelliklerin yer aldığı modül sayesinde tüm üretim süreçlerinizin uçtan uca yönetimini kolaylaştırabilirsiniz.",
-        
         "wmsTitle9Name": "Siparişin iadesi",
         "wmsTitle9One": "WMS - Depo yönetim sistemleri sayesinde farklı büyüklükteki tüm işletmeler iade süreçlerini maksimum verimlilik ve etkinlikle yönetebilirler. İade girişlerini ve sağlam/hasarlı iadeleri yöneterek depo süreçlerini kontrol edebilirsiniz.",
-
         "wmsTitle10Name": "Zaman kaybı, Fazla çalışan, Stok bozulmaları",
         "wmsTitle10One": "Bir işletme, manuel olarak yapılan mal kabul süreçlerinde benzer ürünleri ayırt etmekte zorlanıyor. Bu durum, depo personelinin aynı ürünleri defalarca saymasına yol açıyor. Örneğin, farklı parti numaralarına sahip olmayan benzer ürünler, manuel süreçlerde karmaşıklığa ve hatalara sebep oluyor.Bu durum, aynı işi daha kısa sürede ve daha az personelle yapabilen bir depo yönetim sistemine olan ihtiyacı ortaya koyuyor. Sistem, barkod etiketleri gibi teknolojileri kullanarak ürünleri otomatik olarak tanımlayabilir ve sayabilir. Bu sayede, insan hatalarının önüne geçilebilir ve depo personeli daha stratejik görevlere odaklanabilir.",
-
-        "wmsTitle11Name": "Sipariş Gecikmesi ve Müşteri Memnuniyeti",
+        "wmsTitle11Name": "Sipariş gecikmesi ve müşteri memnuniyeti",
         "wmsTitle11One": "Günümüzde birçok işletme için, siparişlerin depodan geç çıkması ve müşteri memnuniyetsizliği gibi sorunlar, depo yönetim süreçlerinin etkin bir şekilde yapılandırılmamasından kaynaklanabilir. Bu durumu düzeltmek ve müşteri memnuniyetini artırmak adına modern bir depo yönetim sistemi olan WMS kullanımı oldukça önemlidir.Depo Personeli Bağımlılığı: Geleneksel depo yönetiminde, bir ürünün depoda nerede bulunduğunu bilmek genellikle belirli depo personelinin bilgisine dayanır. Bu durum, personel değişiklikleri veya personel hataları nedeniyle gecikmelere yol açabilir.Ürün Karışıklıkları ve Yanlış Siparişler: Benzer ürün kodlarına sahip olan ürünlerin karıştırılması veya yanlış ürünlerin gönderilmesi, müşteri memnuniyetsizliğine neden olabilir",
-
-        "wmsTitle12Name": "Depo Düzeni ve Veri Analitiği",
+        "wmsTitle12Name": "Depo Düzeni ve veri analitiği",
         "wmsTitle12One": "Gerçek zamanlı veriler, manuel veri toplama yöntemlerinden daha güvenilir depo düzeni çözümleri sunarak hataları ortadan kaldırıyor ve süreci büyük ölçüde hızlandırıyor. Bu veriler ayrıca, zamanında sevkiyat, stok doğruluğu, dağıtım maliyetleri, sipariş döngü süresi ve diğer önemli metrikleri izlemek için data deposu yardımıyla görsel raporlar oluşturuyor.",
-
         "wmsTitle13Name": "Kapsamlı İzleme",
         "wmsTitle13One": "WMS Depo Yönetim Otomasyonunun Seri ve Lot Havuzu, geçmişe yönelik takip sağlayarak işletmenin stok tarihçesi ve yaşı gibi stok geçmişi hakkında detaylı bilgi toplanmasını sağlıyor. WMS ile aynı zamanda depo çalışanlarının performansları da izlenebilir hale geliyor."
-
     },
     "d2d": {
         "name": "D2D",
-        "title": "D2D sipariş dağıtan müşterilerin anlık ve sat kaçta olduğunu gösteren bir proje geliştirmek için bir mobil uygulama veya web tabanlı bir sistem oluşturabilirsiniz. İşte bu proje için temel özellikler:",
-        "title2": "Kullanıcı Yönetimi: Sipariş dağıtan müşterilerin ve yöneticilerin sisteme giriş yapabilmesi için bir kullanıcı yönetim sistemi oluşturun.",
-        "title3": "Sipariş Yönetimi: Müşterilerin siparişlerini oluşturabilecekleri, düzenleyebilecekleri ve iptal edebilecekleri bir arayüz sağlayın. Siparişlerin durumu (hazırlanıyor, teslim ediliyor, teslim edildi vb.) gösterilmelidir.",
-        "title4": "Konum Belirleme: Müşterilerin konumlarını belirleyen bir özellik ekleyin. Bu, siparişlerin dağıtılması için önemlidir ve müşterilerin siparişlerinin ne zaman geleceğini tahmin etmelerine yardımcı olur.",
-        "title5": "Anlık Bildirimler: Müşterilerin siparişlerinin durumuyla ilgili anlık bildirimler sağlayın. Örneğin, sipariş hazırlanıyor, kurye yola çıktı gibi bildirimler gönderilebilir.",
-        "title6": "Sipariş Takibi: Müşterilerin siparişlerinin hangi aşamada olduğunu ve tahmini teslim süresini takip edebilecekleri bir ekran sağlayın.",
-        "title7": " Raporlama: Yöneticilerin, siparişlerin anlık ve toplam satış durumunu görebilecekleri bir raporlama aracı ekleyin. Bu raporlar, işletmenin performansını değerlendirmek için kullanılabilir.",
-        "title8": "Performans İzleme: Dağıtım personelinin performansını izlemek için bir araç sağlayın. Bu, kaç siparişin ne kadar sürede teslim edildiği gibi verileri içerebilir.Kullanıcı Dostu Arayüz: Kullanıcıların kolayca sipariş verebilecekleri ve takip edebilecekleri bir arayüz sağlayın. Arayüzün kullanıcı dostu ve erişilebilir olması önemlidir.Bu özellikler, müşterilerin D2D siparişlerini yönetmelerini ve takip etmelerini kolaylaştıran bir proje için temel oluşturabilir."
+        "des":"Yol haritalarını gösteren ve kullanıcıların daireleri arasında rota belirleyen bir navigasyon programıdır."
+    },
+    "D2DTitle": {
+        "D2DTitle1Name": "D2D projesinin önemi ve gerekçesi",
+        "D2DTitle1One": "Dinamik yoğunluk odaklı araç rota optimizasyonu, günümüzde lojistik ve taşımacılık sektörlerinde önemli bir rol oynamaktadır. Bu tür bir optimizasyon, trafik verilerini gerçek zamanlı olarak analiz ederek en hızlı, en kısa ve en az maliyetli rotayı belirleyerek araçların verimliliğini artırır. Dashboard analizleri, bu verilerin kullanıcı dostu bir arayüzde görselleştirilmesini sağlar, böylece operasyonel kararlar alınabilir. Doğru teslimat oranı ve hedef takibi, işletmelerin müşteri memnuniyetini ve operasyonel etkinliğini artırmak için önemlidir. QR kod ile hatasız sevkiyat, paketlerin doğru adreslere ve doğru kişilere teslim edilmesini sağlar, böylece işletmelerin müşteri memnuniyetini artırır.",
+        "D2DTitle2Name": "Anlık takip",
+        "D2DTitle2OneHeader": "Araç bilgi takibi, araçların konumunu, yakıt tüketimini, hızını ve diğer önemli bilgileri izlemeyi mümkün kılar. Kaza bilgi takibi, güvenlik önlemlerini artırmak ve olası riskleri azaltmak için önemlidir. Bakım takibi, araçların düzenli bakımını sağlayarak işletme maliyetlerini optimize eder. KM takibi ise araçların kilometrelerini izleyerek bakım ve maliyet planlamasına yardımcı olur. Harita üzerinden araç takibi, operasyonel personelin araçların konumunu gerçek zamanlı olarak izlemesini sağlar. Bu, rotaları optimize etmek, trafik problemlerini önlemek ve müşteriye daha kesin teslimat süreleri sağlamak için önemlidir. Bu özelliklerin bir araya getirilmesi, lojistik ve taşımacılık işletmelerinin verimliliğini artırırken müşteri memnuniyetini de maksimize eder."
     },
     "footer": {
         "reser": "Telif Hakkı 2022. Tüm Hakları Saklıdır"

@@ -2,9 +2,9 @@ import { useTranslation } from "react-i18next";
 import './index.css'
 
 import { Container, Row, Col, Tab } from "react-bootstrap";
-import projImg1 from "../../assets/img/project-img1.jpg";
-import projImg2 from "../../assets/img/project-img2.png";
-import projImg3 from "../../assets/img/project-img3.jpg";
+import projImg1 from "../../assets/img/9.png";
+import projImg2 from "../../assets/img/b2bImg1-demo.jpg";
+import projImg3 from "../../assets/img/D2D.jpg";
 import TrackVisibility from 'react-on-screen';
 
 import Navv from "../../Components/Nav/Navv"; // Update import statement
@@ -45,7 +45,7 @@ function App() {
                                                                     <img src={projImg1} />
                                                                     <div className="proj-txtx">
                                                                         <h4>{t("wms.name")}</h4>
-                                                                        <span>{t("wms.des")}</span>
+                                                                        {/* <span>{t("wms.des")}</span> */}
                                                                     </div>
                                                                 </div>
                                                             </Link>
@@ -55,8 +55,8 @@ function App() {
                                                                 <div className="proj-imgbx">
                                                                     <img src={projImg2} />
                                                                     <div className="proj-txtx">
-                                                                        <h4>{t("b2b.name")}</h4>
-                                                                        <span>{t("b2b.des")}</span>
+                                                                        <h4>{t("B2b.name")}</h4>
+                                                                        <span>{t("B2b.des")}</span>
                                                                     </div>
                                                                 </div>
                                                             </Link>

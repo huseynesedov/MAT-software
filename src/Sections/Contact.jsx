@@ -1,18 +1,18 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 import TrackVisibility from 'react-on-screen';
 import { useTranslation } from "react-i18next";
 
+import emailjs from '@emailjs/browser';
 export const Contact = () => {
 
   const { t } = useTranslation()
   const formInitialDetails = {
-    firstName: '',
-    lastName: '',
-    email: '',
-    phone: '',
-    message: ''
+    user_name: '',
+    user_email: '',
+    user_phone: '',
+    user_message: ''
   }
   const [formDetails, setFormDetails] = useState(formInitialDetails);
   const [status, setStatus] = useState({});
@@ -23,7 +23,25 @@ export const Contact = () => {
       [category]: value
     })
   }
+  const form = useRef();
+  const sendEmail = (e) => {
+    e.preventDefault();
 
+    emailjs.sendForm('service_n7lj6yp', 'template_uqu2ahe', form.current, '5_aesVuHw7cm4d8gA', {
+      from_name: "",
+      to_name: "",
+      user_email: "",
+      user_phone: "",
+      user_message: "",
+    })
+      .then((result) => {
+        console.log(result.text);
+        console.log("message sent!")
+      }, (error) => {
+        console.log(error.text);
+        console.log("error sending message, try again!")
+      });
+  };
   return (
     <section className="contact" id="connect">
       <div className="con">
@@ -36,22 +54,22 @@ export const Contact = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <h2>{t("Projects.contact")}</h2>
-                  <form >
+                  <form ref={form} onSubmit={sendEmail}>
                     <Row>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="text" value={formDetails.firstName} placeholder="First Name" onChange={(e) => onFormUpdate('firstName', e.target.value)} />
+                        <input type="text" value={formDetails.from_name} name="from_name" placeholder="FirstName" onChange={(e) => onFormUpdate('from_name', e.target.value)} required />
                       </Col>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="text" value={formDetails.lasttName} placeholder="Last Name" onChange={(e) => onFormUpdate('lastName', e.target.value)} />
+                        <input type="text" value={formDetails.to_name} name="to_name" placeholder="LastName" onChange={(e) => onFormUpdate('to_name', e.target.value)} required />
                       </Col>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="email" value={formDetails.email} placeholder="Email Address" onChange={(e) => onFormUpdate('email', e.target.value)} />
+                        <input type="email" value={formDetails.user_email} name='user_email' placeholder="Email Address" onChange={(e) => onFormUpdate('user_email', e.target.value)} required />
                       </Col>
                       <Col size={12} sm={6} className="px-1">
-                        <input type="tel" value={formDetails.phone} placeholder="Phone No." onChange={(e) => onFormUpdate('phone', e.target.value)} />
+                        <input type="tel" value={formDetails.user_phone} name="user_phone" placeholder="Phone No." onChange={(e) => onFormUpdate('user_phone', e.target.value)} required />
                       </Col>
                       <Col size={12} className="px-1">
-                        <textarea rows="6" value={formDetails.message} placeholder="Message" onChange={(e) => onFormUpdate('message', e.target.value)}></textarea>
+                        <textarea rows="6" value={formDetails.user_message} name='user_message' placeholder="Message" onChange={(e) => onFormUpdate('user_message', e.target.value)} required></textarea>
                         <button type="submit"><span>{t("Projects.send")}</span></button>
                       </Col>
                       {

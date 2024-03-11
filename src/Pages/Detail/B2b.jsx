@@ -20,24 +20,76 @@ function Arm() {
             <Navv />
             <div className="top-70"></div>
             <div className="job-infor-main">
-                <h1>
-                    {t("b2b.name")}
+                <h1 className='hh11'>
+                    {t("B2b.name")}
                 </h1>
             </div>
-            <div className="job-center-main">
+            <div className="job-center-main s">
                 <div className="textMain">
-                    <div className='fotoCenter'>
+                    <div className="topp20"></div>
 
-                        <div className="div2 foto"></div>
+                    <div className="foto-contents">
+                        <div className='title-center'>
+                            <h2 className="red">
+                                {t("B2BTitle.B2BTitle1Name")}
+                            </h2>
+                            <div className='tit'>
+                                <p className="title-bot">
+
+                                    {t("B2BTitle.B2BTitle1One")}
+                                </p>
+                            </div>
+                        </div>
+                        <div className='fotoCenter'>
+                            <div className="div20 foto"></div>
+                        </div>
                     </div>
-                    <div className="xet"></div>
+                    <div className="foto-contents">
+                        <div className='fotoCenter'>
+                            <div className="div21 foto"></div>
+                        </div>
+                        <div className='title-centers'>
+                            <h2 className="red">
+                                {t("B2BTitle.B2BTitle2Name")}
+                            </h2>
+                            <div className='tit tit2'>
+                                <p className="title-bot">
 
-                    <h5 className='h5'>
-                        {t("b2b.title")}
-                    </h5>
+                                    {t("B2BTitle.B2BTitle2OneHeader")}
+                                </p>
+                            </div>
+                        </div>
 
-                </div>
+                    </div>
+                    <div className="foto-contents">
+                        <div className='title-center'>
+                            <h2 className="red">
+                                {t("B2BTitle.B2BTitle3Name")}
+                            </h2>
+                            <div className='tit'>
+                                <p className="title-bot">
+
+                                    {t("B2BTitle.B2BTitle3OneHeader")}
+                                </p>
+                                
+                                <h2 className="red">
+                                    {t("B2BTitle.B2BTitle3One")}
+                                </h2>
+                                <h2 className="red">
+                                    {t("B2BTitle.B2BTitle3Two")}
+                                </h2>
+                                <h2 className="red">
+                                    {t("B2BTitle.B2BTitle3Three")}
+                                </h2>
+                            </div>
+                        </div>
+                        <div className='fotoCenter'>
+                            <div className="div22 foto"></div>
+                        </div>
+                    </div>
+
             </div>
+        </div >
             <Footer />
         </>
     );

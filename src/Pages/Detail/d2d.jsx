@@ -14,7 +14,7 @@ function Arm() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>MAT Software - D2d</title>
+                <title>MAT Software - D2D</title>
             </Helmet>
 
             <Navv />
@@ -24,43 +24,45 @@ function Arm() {
                     {t("d2d.name")}
                 </h1>
             </div>
-            <div className="job-center-main">
+            <div className="job-center-main s">
                 <div className="textMain">
-                    <div className='fotoCenter'>
+                    <div className="topp20"></div>
 
-                        <div className="div3 foto"></div>
+                    <div className="foto-contents">
+                        <div className='title-center'>
+                            <h2 className="red">
+                                {t("D2DTitle.D2DTitle1Name")}
+                            </h2>
+                            <div className='tit'>
+                                <p className="title-bot">
+
+                                    {t("D2DTitle.D2DTitle1One")}
+                                </p>
+                            </div>
+                        </div>
+                        <div className='fotoCenter'>
+                            <div className="div23 foto"></div>
+                        </div>
                     </div>
+                    <div className="foto-contents">
+                        <div className='fotoCenter'>
+                            <div className="div24 foto"></div>
+                        </div>
+                        <div className='title-centers'>
+                            <h2 className="red">
+                                {t("D2DTitle.D2DTitle2Name")}
+                            </h2>
+                            <div className='tit tit2'>
+                                <p className="title-bot">
 
-                    <div className="xet"></div>
+                                    {t("D2DTitle.D2DTitle2OneHeader")}
+                                </p>
+                            </div>
+                        </div>
 
-                    <h5 className='h5'>
-
-                        {t("d2d.title")}
-                        <br />
-                        <br />
-                        {t("d2d.title2")}
-                        <br />
-                        <br />
-                        {t("d2d.title3")}
-                        <br />
-                        <br />
-                        {t("d2d.title4")}
-                        <br />
-                        <br />
-                        {t("d2d.title5")}
-                        <br />
-                        <br />
-                        {t("d2d.title6")}
-                        <br />
-                        <br />
-                        {t("d2d.title7")}
-                        <br />
-                        <br />
-                        {t("d2d.title8")}
-                    </h5>
-
+                    </div>
                 </div>
-            </div>
+            </div >
             <Footer />
         </>
     );

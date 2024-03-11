@@ -1,13 +1,14 @@
 .navbarss {
     margin-top: 8px;
-    width: 41%;
     display: flex;
     justify-content: space-between;
     font-size: 20px;
     color: white;
     margin-right: 40px;
 }
-
+.navbarss a p{
+    margin-right: 20px ;
+}
 a {
     list-style: none;
     text-decoration: none !important;
@@ -95,6 +96,11 @@ svg:hover{
     .navbarss {
         width: 100% !important;
         display: flex;
+        margin-right: 0px !important;
+
+    }
+    .navbarss a p {
+        margin-right: 8px;
     }
     .icons{
         margin-left: 0px !important;

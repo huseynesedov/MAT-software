@@ -19,7 +19,9 @@ export const Banner = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <span className="tagline">
+                    <Link to="/About">
                   <button onClick={() => console.log('connect')}>{t("Home.we")} <ArrowRightCircle size={25} /></button>
+                  </Link>
                   </span>
                   <h1>
                     {t("Home.tekno")}

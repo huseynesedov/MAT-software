@@ -3,7 +3,8 @@
     "home": "Home",
     "service": "Services",
     "we": "About Us",
-    "project": "Projects"
+    "project": "Projects",
+    "contact": "Communication"
   },
   "About": {
     "we": "About Us",
@@ -43,26 +44,78 @@
     "info-prog": "Programming is the process of creating a computer program by writing instructions that computers can understand. This process involves developing software by implementing algorithms through programming languages, allowing computers to perform specific tasks."
   },
   "B2b": {
-    "title": "B2B: This abbreviation stands for 'Business to Business' and refers to trade between businesses. In this type of trade, one business sells goods or services to another business. B2B trade usually occurs in areas such as wholesale trade, industrial goods and services, supply chain management, etc. B2B relationships can be based on long-term collaboration between two businesses and may involve large-scale orders and regular flow of goods. Our B2B project differs from others due to the instant information flow and interaction provided by your mobile application. By delivering instant notifications to your customers about stock levels, new products, discounts, and other important information, you facilitate their business management and decision-making. This can help your customers manage their stocks more effectively and respond faster to their needs. Instant notifications provide your customers with timely and accurate access to information, enabling them to manage their business more efficiently. Additionally, providing this service through a mobile application can help your customers manage their business more intelligently and gain a competitive advantage. This is also a distinguishing feature of our B2B project that can strengthen your customers' relationships with you."
+    "name": "B2B",
+    "des": "Business to Business"
+    },
+  "B2BTitle": {
+    "B2BTitle1Name": "The Importance and Justification of the B2B Project",
+    "B2BTitle1One": "Software companies that cannot accurately convey customer demands to programmers and technical teams merely fulfill requested tasks and cannot incorporate their industry experiences into the desired software due to a lack of sectoral experience. Therefore, many B2B projects unfortunately end up doomed to failure due to prolonged time and cost losses. Key elements to establish a B2B structure include: Order Receipts, Order Placement, Stock Reservation, Product Manufacturing, Production Recipes, Stocks, Warehouses, Management of stocks in multiple warehouses, Stock Levels, Negative Stock Alerts, Inter-warehouse Transfers, Warehouse Shelf Tracking Systems, Waybill, Invoice, Current Accounts, Reconciliations. You can market worldwide 24/7, 365 days a year on your behalf, with the products and prices you load into the B2B structure, providing information.",
+    "B2BTitle2Name": "Integration Implementation",
+    "B2BTitle2OneHeader": "MAT software, through its B2B web service, can use its own database or integrate with well-known ERPs in the market such as Logo, Nebim Winner, Nebim V3, Micro v14, 1C, Micro V15, Eta Sql, to read and write data.",
+    "B2BTitle3Name": "Real-time Notifications",
+    "B2BTitle3OneHeader": "MAT Software's B2B development differs from other companies in the following ways:",
+    "B2BTitle3One": "1) You can connect to the admin panel from any computer because the admin page is presented in the form of a website.",
+    "B2BTitle3Two": "2) Users won't need to check stocks manually to place an order. With the new B2B project developed by MAT Software, users can download an application to their IOS and Android-based phones and place all orders through the application.",
+    "B2BTitle3Three": "3) Users will receive instant notifications about all stock changes, new products, and product discounts."
   },
   "wms": {
-    "title": "Goods Receipt: This module facilitates the acceptance and recording of new materials arriving at the warehouse. Material acceptance processes typically involve receiving deliveries, checking received goods, labeling them, and adding them to the warehouse inventory.",
-    "title2": "Shipment: This module manages the preparation and shipment of materials to customers. All operations are usually performed using handheld terminals or mobile devices. This includes order picking, packaging, shipment preparation, and transportation.",
-    "title3": "Inventory Count: This module ensures the periodic counting and verification of materials present in the warehouse. This is important to ensure inventory accuracy and detect stock discrepancies. It also features a quick counting capability that allows for inventory operations without disrupting warehouse activities.",
-    "title4": "Movement: This module manages the transfer of materials between warehouses. For example, it includes processes such as transferring excess stock from one warehouse to another or moving material from one section to another.",
-    "title5": "Production: This module manages and tracks production processes. It includes production planning, creation of work orders, tracking of raw materials and processed products, etc.",
-    "title6": "Product Retrieval: This module facilitates finding a specific product in the warehouse. It is commonly used to locate items in inventory, reducing the time and effort of personnel.",
-    "title7": "Reporting: This module provides reports on various operational metrics. These reports may include information such as best-selling products, employee working hours, inventory levels, order statuses, and more. These reports assist business managers in decision-making processes and are used to evaluate the company's performance."
+    "name": "Warehouse Management System"
+  },
+  "wmsTitle": {
+    "title0": "The Importance and Justification of Warehouse Management Project",
+    "title00": "Products are counted and checked by warehouse employees during the receiving and shipment stages based on the shipment document. Significant gaps and errors occur in these processes. Issues include:",
+    "one": "1. Inefficiency (Stock Discrepancy, Lack of Communication, Manual Processes, Lack of Information)",
+    "two": "2. Excessive time loss",
+    "three": "3. Overworking and dependence on employees.",
+    "four": "4. Incorrect calculation of stock",
+    "five": "5. Late shipments from the warehouse",
+    "six": "6. Customer dissatisfaction due to incorrect shipped products",
+    "tit": "What does Inefficiency mean?",
+    "title000": "Inventory Inconsistencies: Incorrect calculation or mismanagement of inventory levels can lead to inventory inconsistencies and shortages. Incorrect calculation of inventory levels means that the business cannot accurately determine the quantity of products or materials it owns.",
+    "one1": "1. Excessive Stock: Inflating stock levels can lead to inefficient use of warehouse space, increased storage costs, and risks such as product aging and loss of value.",
+    "two2": "2. Low Stock: Underestimating stock levels can lead to unfulfilled customer requests, sales losses, and customer dissatisfaction.",
+    "wmsTitle1Name": "Goods Receipt Process",
+    "wmsTitle1One": "The goods receipt stage is carried out by scanning barcodes. Hand terminals and barcode scanning: An integrated warehouse management system with an ERP system allows warehouse employees to upload shipping documents to handheld terminals. These terminals are used to read barcodes that easily identify products in the warehouse. This prevents manual errors and increases processing speed.",
+    "wmsTitle1Two": "System Monitor and Instant Notification to Warehouse Manager: Barcode scanning operations performed by warehouse employees are instantly verified by the system. The ERP system records warehouse movements, shipments, and purchases. This information is instantly communicated to the warehouse manager.",
+    "wmsTitle2Name": "Saving time and effort in the order picking process:",
+    "wmsTitle2OneHeader": "1. Recording Products in the System:",
+    "wmsTitle2One": "When warehouse products are correctly recorded in the system, the warehouse management system knows the location and characteristics of each product in the warehouse. This makes the order picking process easier and error-free, eliminating the error of sending the wrong product to the customer.",
+    "wmsTitle2TwoHeader": "2. Loading Orders to Terminals:",
+    "wmsTitle2Two": "Once the list of products to be automatically removed from the warehouse is determined by the warehouse management system, orders are loaded onto manual terminals for warehouse employees. These terminals show the employee which product to select from which shelf.",
+    "wmsTitle2ThreeHeader": "3. Single picking from the warehouse:",
+    "wmsTitle2Three": "This guidance based on shelf weight allows warehouse employees to pick the entire order in one go. This prevents unnecessary turnovers in the warehouse and speeds up the picking process. This method saves time, minimizes errors, and increases customer satisfaction and overall business efficiency.",
+    "wmsTitle3Name": "Inventory Counting",
+    "wmsTitle3One": "Smart WMS warehouse software offers a range of solutions for maximizing the efficiency of all counting processes. Applications such as counting with handheld terminals, real-time inventory tracking, and serial/lot-based comparisons facilitate the control and execution of all operations, minimizing errors.",
+    "wmsTitle4Name": "Stock Management",
+    "wmsTitle4One": "Stock tracking programs provide real-time visibility into the stocks of any organization in any location, including goods in transit and in stores. Stock program solutions support stock counting and demand forecasting using advanced analytics and forecasts related to serial/lot tracking, pallet tracking, shelf tracking, tracking damaged, rejected, and blocked goods, and product and vendor performance.",
+    "wmsTitle5Name": "Label Design Module",
+    "wmsTitle5One": "With the Label Design Module of Smart WMS Warehouse Management Automation, you can design as many labels as you want and manage product and shelf labels through this module. WMS Warehouse Management Automation supports all barcode types such as EAN, Serial, GS1-128, and QR codes.",
+    "wmsTitle6Name": "Reporting Module",
+    "wmsTitle6One": "With the Reporting Module of Warehouse Management Automation, unlimited reports can be created and delivered to recipients at the desired time and date. Reports include: Best-selling products, stock movements, hours worked by employees, etc. Reports are available.",
+    "wmsTitle7Name": "Human Resource Management",
+    "wmsTitle7One": "WMS includes warehouse personnel, labor costs, response times, productivity gaps, planned training, and more. It supports businesses in workforce management by providing real-time visibility, allowing businesses to assign appropriate staff duties and responsibilities more effectively. This way, businesses can perform performance monitoring and management activities more efficiently.",
+    "wmsTitle8Name": "Production",
+    "wmsTitle8One": "A WMS ensures the accurate execution of many interrelated and overlapping operations from forecasting to order, storage to supplier supply, and production planning to execution. In this context, it improves all production operations by developing shipment, goods receipt, and quality control solutions. With features such as production address definition, production order support, changing consumption and waste quantities in work orders, automatic consumption/waste voucher creation, and linking to production quantities, you can easily manage end-to-end control of all your production processes.",
+    "wmsTitle9Name": "Order Return",
+    "wmsTitle9One": "Through WMS - Warehouse Management Systems, businesses of all sizes can efficiently manage return processes. You can control warehouse processes by managing return entries and intact/damaged returns.",
+    "wmsTitle10Name": "Time Loss, Overtime, Stock Spoilage",
+    "wmsTitle10One": "A business struggles to distinguish similar products in manual goods receipt processes. This situation leads to warehouse staff counting the same products repeatedly. For example, similar products without different batch numbers cause complexity and errors in manual processes. This highlights the need for a warehouse management system that can perform the same job in less time and with fewer staff. The system can automatically identify and count products using technologies such as barcode labels, preventing human errors and allowing warehouse staff to focus on more strategic tasks.",
+    "wmsTitle11Name": "Order Delay and Customer Satisfaction",
+    "wmsTitle11One": "For many businesses today, issues such as delayed shipments from the warehouse and customer dissatisfaction can result from the inefficient structuring of warehouse management processes. To correct this situation and increase customer satisfaction, the use of a modern warehouse management system like WMS is crucial. Staff Dependency: In traditional warehouse management, knowing where a product is located in the warehouse often depends on the knowledge of specific warehouse personnel. This can lead to delays due to staff changes or staff errors. Product Confusion and Incorrect Orders: Mixing up similar products with similar product codes or sending the wrong products can lead to customer dissatisfaction.",
+    "wmsTitle12Name": "Warehouse Layout and Data Analytics",
+    "wmsTitle12One": "Real-time data provides more reliable warehouse layout solutions by eliminating errors in manual data collection methods and greatly speeding up the process. These data also create visual reports through the data warehouse to track metrics such as on-time shipments, stock accuracy, distribution costs, order cycle time, and other important metrics at the desired time and date.",
+    "wmsTitle13Name": "Comprehensive Tracking",
+    "wmsTitle13One": "The Serial and Lot Pool of WMS Warehouse Management Automation enables detailed information gathering about the stock history and age of the business, such as stock history and age. WMS also allows real-time monitoring of warehouse staff performance."
   },
   "d2d": {
-    "title": "D2D: You can create a mobile application or web-based system to develop a project that shows the instant status of customers distributing orders and when they place an order. Here are the key features for this project:",
-    "title2": "User Management: Create a user management system to allow customers distributing orders and managers to log into the system.",
-    "title3": "Order Management: Provide an interface for customers to create, edit, and cancel orders. The status of orders (being prepared, being delivered, delivered, etc.) should be displayed.",
-    "title4": "Location Identification: Add a feature to identify the locations of customers. This is important for order distribution and helps customers predict when their orders will arrive.",
-    "title5": "Instant Notifications: Provide customers with instant notifications about the status of their orders. For example, notifications can be sent for order preparation, courier departure, etc.",
-    "title6": "Order Tracking: Provide a screen where customers can track the stage of their orders and the estimated delivery time.",
-    "title7": "Reporting: Add a reporting tool that allows managers to see the current and overall sales status. These reports can be used to evaluate the company's performance.",
-    "title8": "Performance Monitoring: Provide a tool for tracking the performance of delivery personnel. This may include data such as the number of orders delivered within a specific time period, etc. User-Friendly Interface: Provide an interface that allows users to easily place and track orders. It is important for the interface to be user-friendly and accessible. These features can create the foundation for a project that facilitates the management and tracking of D2D customer orders."
+    "name": "D2D",
+    "des": "It is a navigation program that shows road maps and sets a route between users' apartments."
+  },
+  "D2DTitle": {
+    "D2DTitle1Name": "The Importance and Justification of the D2D Project",
+    "D2DTitle1One": "Dynamic density-focused vehicle route optimization plays a significant role in the logistics and transportation sectors today. This type of optimization increases the efficiency of vehicles by analyzing traffic data in real-time to determine the fastest, shortest, and least costly route. Dashboard analyses visualize this data in a user-friendly interface, allowing for operational decision-making. Accurate delivery rate and target tracking are essential to increase customer satisfaction and operational efficiency. Error-free shipments with QR codes ensure that packages are delivered to the correct addresses and individuals, thus increasing customer satisfaction for businesses.",
+    "D2DTitle2Name": "Real-time Tracking",
+    "D2DTitle2OneHeader": "Vehicle information tracking allows monitoring the location, fuel consumption, speed, and other important information of vehicles. Accident information tracking is important to increase security measures and reduce possible risks. Maintenance tracking optimizes operating costs by ensuring regular vehicle maintenance. KM tracking assists in maintenance and cost planning by tracking the distances traveled by vehicles. Vehicle tracking on the map allows operational staff to track the location of vehicles in real-time. This is important to optimize routes, prevent traffic problems, and provide more accurate delivery times to the customer. Combining these features enhances the efficiency of logistics and transportation businesses while maximizing customer satisfaction."
   },
   "footer": {
     "reser": "Copyright 2022. All Rights Reserved"

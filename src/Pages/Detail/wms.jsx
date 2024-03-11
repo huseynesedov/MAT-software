@@ -139,7 +139,6 @@ function Arm() {
                             <div className="div6 foto"></div>
                         </div>
                     </div>
-
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
@@ -172,7 +171,6 @@ function Arm() {
                         </div>
 
                     </div>
-
                     <div className="foto-contents">
                         <div className='title-center'>
                             <h2 className="red">
@@ -189,7 +187,6 @@ function Arm() {
                             <div className="div8 foto"></div>
                         </div>
                     </div>
-
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
@@ -207,7 +204,6 @@ function Arm() {
                         </div>
 
                     </div>
-
                     <div className="foto-contents">
                         <div className='title-center'>
                             <h2 className="red">
@@ -224,7 +220,6 @@ function Arm() {
                             <div className="div10 foto"></div>
                         </div>
                     </div>
-
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
@@ -242,9 +237,6 @@ function Arm() {
                         </div>
 
                     </div>
-
-
-
                     <div className="foto-contents">
                         <div className='title-center'>
                             <h2 className="red">
@@ -261,7 +253,6 @@ function Arm() {
                             <div className="div12 foto"></div>
                         </div>
                     </div>
-
                     <div className="foto-contents">
                         <div className='fotoCenter'>
 
@@ -279,7 +270,6 @@ function Arm() {
                         </div>
 
                     </div>
-
                     <div className="foto-contents">
                         <div className='title-center'>
                             <h2 className="red">
