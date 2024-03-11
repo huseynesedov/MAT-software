@@ -622,6 +622,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.02s ease-in-out;
 }
 
+@media (max-width:768px) {
+ 
+  .proj-imgbx::before {
+    height: 100% !important;
+  }
+}
+
 .orange {
   font-size: 55px;
   color: #E1C564 !important;
