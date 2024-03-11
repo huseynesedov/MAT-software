@@ -623,7 +623,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 @media (max-width:768px) {
- 
+  .proj-imgbx {
+    height: 75% !important;
+  }
   .proj-imgbx::before {
     height: 100% !important;
   }
