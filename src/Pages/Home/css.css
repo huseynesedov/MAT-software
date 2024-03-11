@@ -475,9 +475,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill-bx {
   background: #151515;
   border-radius: 64px;
+  display: flex;
   text-align: center;
+  justify-content: center;
   padding: 60px 50px;
   margin-top: -60px;
+  flex-direction: column;
 }
 
 .skill h2 {
@@ -609,15 +612,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-imgbx img {
   width: 100%;
 }
-
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, #E1C564 -5.91%, #E1C564 111.58%);
+  background: linear-gradient(90.21deg,  #0000009b -5.91%, #0000009b 111.58%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
   height: 0;
-  transition: 0.4s ease-in-out;
+  transition: 0.02s ease-in-out;
 }
 
 .orange {
@@ -635,7 +637,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
-  transition: 0.5s ease-in-out;
+  transition: 0.2s ease-in-out;
   opacity: 0;
   width: 100%;
 }
@@ -740,8 +742,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .contact form button::before {
+  border-radius: 10px;
   content: "";
-  background: #121212;
+  background: #E1C564;
   width: 0;
   height: 100%;
   position: absolute;

@@ -44,7 +44,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                             {/* <div className="div20 foto"></div>
                              */}
                              <img className='fotoDiv' src={div20} alt="" />
@@ -91,7 +91,7 @@ function Arm() {
                                 </h2>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                             {/* <div className="div22 foto"></div> */}
                             <img className='fotoDiv' src={div22} alt="" />
 

@@ -74,14 +74,14 @@ function Arm() {
                                 </h2>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
 
                             {/* <div className="div1 foto"></div> */}
                             <img className='fotoDiv' src={div1} alt="" />
                         </div>
                     </div>
                     <div className="foto-contents">
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter '>
 
                             {/* <div className="div4 foto"></div> */}
                             <img className='fotoDiv' src={div4} alt="" />
@@ -117,7 +117,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                             {/* <div className="div15 foto"></div> */}
                             <img className='fotoDiv' src={div15} alt="" />
                         </div>
@@ -154,7 +154,7 @@ function Arm() {
                                 </h2>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                         <img className='fotoDiv' src={div6} alt="" />
                             {/* <div className="div6 foto"></div> */}
                         </div>
@@ -203,7 +203,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                         <img className='fotoDiv' src={div8} alt="" />
                         </div>
                     </div>
@@ -235,7 +235,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                         <img className='fotoDiv' src={div10} alt="" />
                             {/* <div className="div10 foto"></div> */}
                         </div>
@@ -268,7 +268,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                         <img className='fotoDiv' src={div12} alt="" />
                         </div>
                     </div>
@@ -300,7 +300,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                         <img className='fotoDiv' src={div18} alt="" />
                             {/* <div className="div18 foto"></div> */}
                         </div>
@@ -333,7 +333,7 @@ function Arm() {
                                 </p>
                             </div>
                         </div>
-                        <div className='fotoCenter'>
+                        <div className='fotoCenter JusEnd'>
                         <img className='fotoDiv' src={div19} alt="" />
                             {/* <div className="div19 foto"></div> */}
                         </div>
