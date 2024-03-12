@@ -69,7 +69,7 @@ export const Projects = () => {
                           </Col>
                         </Row>
                       </Tab.Pane>
-                      <Tab.Pane eventKey="second">
+                      <Tab.Pane eventKey="second" className="font">
                         <p>
                           {t("About.mat")}
                         </p>

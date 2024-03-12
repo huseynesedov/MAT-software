@@ -21,22 +21,18 @@ function Servis() {
                     {t("Skils.service")}
                 </h1>
             </div>
-            <div className="container-fluid services py-5 my-5">
+            <div className="container-fluid services ">
                 <div className="container py-5">
-                    <div
-                        className="text-center mx-auto pb-5 wow fadeIn"
-                        data-wow-delay=".3s"
-                        style={{ maxWidth: 600 }}
-                    >
+                    <div className="text-center mx-auto pb-5 wow fadeIn" style={{ maxWidth: 600 }}>
                         {/* <h5 className="orange">{t("Skils.service")}</h5> */}
                         <h1>{t("Skils.privet")}</h1>
                     </div>
 
 
-                    <div className="row g-5 services-inner">
-                        <div className="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div className="ServicCenter">
+                        <div className="ServicCenterDivs">
                             <div className="services-item">
-                                <div className="p-4 text-center services-content">
+                                <div className="ServicDivCenter text-justify services-content">
                                     <div className="services-content-icon">
                                         <FaCode className="icon" />
                                         <h4 className="mb-3">{t("Skils.web")}</h4>
@@ -48,9 +44,9 @@ function Servis() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div className="ServicCenterDivs">
                             <div className="services-item">
-                                <div className="p-4 text-center services-content">
+                                <div className="ServicDivCenter text-justify services-content">
                                     <div className="services-content-icon">
                                         <FaFileCode className="icon" />
                                         <h4 className="mb-3">{t("Skils.web2")}</h4>
@@ -62,9 +58,9 @@ function Servis() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div className="ServicCenterDivs">
                             <div className="services-item">
-                                <div className="p-4 text-center services-content">
+                                <div className="ServicDivCenter text-justify services-content">
                                     <div className="services-content-icon">
                                         <FaExternalLinkAlt className="icon" />
                                         <h4 className="mb-3">{t("Skils.design")}</h4>
@@ -76,9 +72,9 @@ function Servis() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div className="ServicCenterDivs">
                             <div className="services-item">
-                                <div className="p-4 text-center services-content">
+                                <div className="ServicDivCenter text-justify services-content">
                                     <div className="services-content-icon">
                                         <FaUserSecret className="icon" />
                                         <h4 className="mb-3">{t("Skils.security")}</h4>
@@ -90,9 +86,9 @@ function Servis() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div className="ServicCenterDivs">
                             <div className="services-item">
-                                <div className="p-4 text-center services-content">
+                                <div className="ServicDivCenter text-justify services-content">
                                     <div className="services-content-icon">
                                         <FaEnvelopeOpen className="icon" />
                                         <h4 className="mb-3">{t("Skils.mikro")}</h4>
@@ -104,9 +100,9 @@ function Servis() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div className="ServicCenterDivs">
                             <div className="services-item">
-                                <div className="p-4 text-center services-content">
+                                <div className="ServicDivCenter text-justify services-content">
                                     <div className="services-content-icon">
                                         <FaLaptop className="icon" />
                                         <h4 className="mb-3">{t("Skils.prog")}</h4>
