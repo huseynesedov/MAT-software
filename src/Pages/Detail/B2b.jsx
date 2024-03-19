@@ -6,7 +6,7 @@ import Navv from "../../Components/Nav/Navv"; // Update import statement
 import { Footer } from "../../Components/Footer/Footer";
 
 import div20 from "../../assets/img/b2bImg2.jpg"
-import div21 from "../../assets/img/b2bImg3.jpg"
+import div21 from "../../assets/img/mat1.jpg"
 import div22 from "../../assets/img/b2bImg4.jpg"
 
 import { useTranslation } from 'react-i18next';

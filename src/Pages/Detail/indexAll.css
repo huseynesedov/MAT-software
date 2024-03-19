@@ -23,49 +23,6 @@
     align-items: center;
 }
 
-
-.div2 {
-    background-image: url("../../assets/img/project-img2.png");
-}
-
-.div3 {
-    background-image: url("../../assets/img/project-img3.jpg");
-}
-
-.div4 {
-    background-image: url("../../assets/img/Resim1.jpg");
-}
-
-.div5 {
-    background-image: url("../../assets/img/Resim1.jpg");
-}
-
-
-
-
-.div12 {
-    background-image: url("../../assets/img/Resim10.png");
-}
-
-
-
-
-.div16 {
-    background-image: url("../../assets/img/s1234.jpg");
-}
-
-.div17 {
-    background-image: url("../../assets/img/s1234.jpg");
-}
-
-.div18 {
-    background-image: url("../../assets/img/data.jpg");
-}
-
-.div19 {
-    background-image: url("../../assets/img/sifaris.jpg");
-}
-/* <img className='fotoDiv' src={div22} alt="" /> */
 .fotoDiv{
     width: 75%;
     height: 100%;

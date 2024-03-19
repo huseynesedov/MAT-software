@@ -2,9 +2,9 @@ import { useTranslation } from "react-i18next";
 import './index.css'
 
 import { Container, Row, Col, Tab } from "react-bootstrap";
-import projImg1 from "../../assets/img/9.png";
-import projImg2 from "../../assets/img/b2bImg1-demo.jpg";
-import projImg3 from "../../assets/img/D2D.jpg";
+import projImg1 from "../../assets/img/mat3.jpg";
+import projImg2 from "../../assets/img/mat5.jpg";
+import projImg3 from "../../assets/img/mat4.jpg";
 import TrackVisibility from 'react-on-screen';
 
 import Navv from "../../Components/Nav/Navv"; // Update import statement
@@ -85,7 +85,7 @@ function App() {
                 
             </section>
 
-            <div className="top-125"></div>
+
 
             <Footer />
         </>
