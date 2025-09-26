@@ -9,11 +9,10 @@ function Servis() {
     const { t } = useTranslation()
     return (
         <>
-        <Helmet>
-        <meta charSet="utf-8" />
-        <title>MAT Software - Servis</title>
-      </Helmet>
-            <Navv />
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>MAT Software - Servis</title>
+            </Helmet>
 
             <div className="top-70"></div>
             <div className="job-infor-main">
@@ -120,7 +119,6 @@ function Servis() {
 
             <div className="top-125"></div>
 
-            <Footer />
         </>
     );
 }

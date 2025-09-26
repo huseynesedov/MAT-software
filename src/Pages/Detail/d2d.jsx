@@ -19,7 +19,6 @@ function Arm() {
                 <title>MAT Software - D2D</title>
             </Helmet>
 
-            <Navv />
             <div className="top-70"></div>
             <div className="job-infor-main">
                 <h1>
@@ -67,7 +66,6 @@ function Arm() {
                     </div>
                 </div>
             </div >
-            <Footer />
         </>
     );
 }

@@ -4,6 +4,7 @@
     "service": "Xidmətlər",
     "we": "Haqqımızda",
     "project": "Layihələr",
+    "referance": "Referanslar",
     "contact": "Əlaqə"
   },
   "About": {
@@ -117,7 +118,10 @@
     "D2DTitle2Name": "Canlı  izləmə",
     "D2DTitle2OneHeader": "Avtomobil məlumatlarının izlənməsi nəqliyyat vasitələrinin yerini, yanacaq sərfiyyatını, sürəti və digər vacib məlumatları izləməyə imkan verir. Qəza məlumatlarının izlənməsi təhlükəsizlik tədbirlərini artırmaq və potensial riskləri azaltmaq üçün vacibdir. Baxımın izlənməsi nəqliyyat vasitələrinə müntəzəm texniki qulluq təmin etməklə əməliyyat xərclərini optimallaşdırır. Yürüş izləmə, digər tərəfdən, nəqliyyat vasitələrinin kilometrlərini izləməklə texniki xidmət və xərclərin planlaşdırılmasına kömək edir. Xəritə vasitəsilə nəqliyyat vasitələrinin izlənməsi əməliyyat heyətinə real vaxt rejimində nəqliyyat vasitələrinin yerini izləməyə imkan verir. Bu, marşrutları optimallaşdırmaq, nəqliyyat problemlərindən qaçmaq və müştəriyə daha dəqiq çatdırılma vaxtını təmin etmək üçün vacibdir. Bu xüsusiyyətlərin birləşdirilməsi logistika və nəqliyyat müəssisələrinin səmərəliliyini artırır, eyni zamanda müştəri məmnuniyyətini artırır."
   },
+  "referance": {
+    "name": "Referanslar"
+  },
   "footer": {
-    "reser": "Təhlükəsizlik Mülkiyyəti 2022. Bütün Hüquqlar Qorunur"
+    "reser": "Təhlükəsizlik Mülkiyyəti 2022-2025. Bütün Hüquqlar Qorunur"
   }
 }

@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
+import { HashLink } from 'react-router-hash-link';
 import 'react-bootstrap'
 import { useTranslation } from "react-i18next";
 import '../../Pages/Home/css.css'
@@ -68,24 +69,27 @@ function Navv() {
             </Link>
             <Link to="/About">
               <p>
-              {t("nav.we")}
+                {t("nav.we")}
               </p>
             </Link>
             <Link to="/Projects">
               <p>
-              {t("nav.project")}
+                {t("nav.project")}
               </p>
             </Link>
             <Link to="/Servis">
               <p>
-              {t("nav.service")}
+                {t("nav.service")}
               </p>
             </Link>
-            <a href="/#connect">
+            <Link to="/references">
               <p>
-              {t("nav.contact")}
+                {t("nav.referance")}
               </p>
-            </a>
+            </Link>
+            <HashLink smooth to="/#connect">
+              <p>{t("nav.contact")}</p>
+            </HashLink>
           </Nav>
 
           <span className="navbar-text">

@@ -21,7 +21,6 @@ function Arm() {
                 <title>MAT Software - B2b</title>
             </Helmet>
 
-            <Navv />
             <div className="top-70"></div>
             <div className="job-infor-main">
                 <h1 className='hh11'>
@@ -100,7 +99,6 @@ function Arm() {
 
             </div>
         </div >
-            <Footer />
         </>
     );
 }

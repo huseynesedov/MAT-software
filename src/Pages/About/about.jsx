@@ -8,11 +8,10 @@ function About() {
 
     return (
         <>
-        <Helmet>
-        <meta charSet="utf-8" />
-        <title>MAT Software - About</title>
-      </Helmet>
-            <Navv />
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>MAT Software - About</title>
+            </Helmet>
             <div className="top-70"></div>
             <div className="job-infor-main">
                 <h1>
@@ -27,8 +26,8 @@ function About() {
                             data-wow-delay=".3s"
                         >
                             <div className="h-100 position-relative">
-                                <img src={bg}className="img-fluid w-92 rounded"alt=""style={{ marginTop: "12%" }}/>
-                                
+                                <img src={bg} className="img-fluid w-92 rounded" alt="" style={{ marginTop: "12%" }} />
+
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
@@ -55,7 +54,6 @@ function About() {
                 </div>
             </div >
 
-            <Footer />
         </>
     );
 }
